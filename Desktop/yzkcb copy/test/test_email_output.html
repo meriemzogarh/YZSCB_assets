@@ -1,0 +1,293 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <style>
+            body { 
+                font-family: Arial, sans-serif; 
+                line-height: 1.6; 
+                color: #333; 
+                margin: 0;
+                padding: 0;
+                background-color: #f5f5f5;
+            }
+            .container { 
+                max-width: 1000px; 
+                margin: 0 auto; 
+                padding: 20px; 
+                background-color: #ffffff;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            }
+                        .header { 
+                background: linear-gradient(135deg, #B31B21 0%, #D62027 50%, #EC272E 100%);
+                color: white;
+                padding: 40px 30px;
+                border-radius: 12px;
+                margin-bottom: 30px;
+                box-shadow: 0 4px 6px rgba(179, 27, 33, 0.2);
+                text-align: center;
+            }
+            .header h1 {
+                margin: 0;
+                font-size: 32px;
+                line-height: 1.2;
+            }
+            .section { 
+                margin: 25px 0; 
+                padding: 20px; 
+                background-color: #f8fafc; 
+                border-radius: 8px;
+                border-left: 4px solid #780000;
+            }
+            .horizontal-sections { 
+                display: flex; 
+                gap: 20px; 
+                margin: 25px 0; 
+                width: 100%;
+                box-sizing: border-box;
+            }
+            .horizontal-section { 
+                flex: 1; 
+                padding: 20px; 
+                background-color: #f8fafc; 
+                border-radius: 8px; 
+                box-sizing: border-box;
+                border-left: 4px solid #780000;
+            }
+            .horizontal-section h2 {
+                color: #780000;
+                margin-top: 0;
+                font-size: 20px;
+                margin-bottom: 15px;
+            }
+            .info-grid { 
+                display: grid; 
+                grid-template-columns: 1fr 1fr; 
+                gap: 12px; 
+            }
+            .info-item { 
+                background-color: white; 
+                padding: 15px; 
+                border-radius: 6px; 
+                word-wrap: break-word; 
+                min-height: 50px;
+                box-sizing: border-box;
+                border: 1px solid #4B86AA;
+                transition: box-shadow 0.2s ease;
+            }
+            .info-item:hover {
+                box-shadow: 0 2px 4px rgba(75, 134, 170, 0.1);
+            }
+            .label { 
+                font-weight: bold; 
+                color: #4B86AA; 
+                font-size: 14px;
+                display: block;
+                margin-bottom: 5px;
+            }
+            .value {
+                color: #4B86AA;
+                font-size: 14px;
+                line-height: 1.4;
+            }
+            .conversation-exchange {
+                margin-bottom: 25px; 
+                padding: 20px; 
+                background-color: #f8fafc; 
+                border-left: 4px solid #780000;
+                border-radius: 8px;
+            }
+            .exchange-header {
+                color: #780000; 
+                margin-top: 0;
+                font-size: 18px;
+                margin-bottom: 15px;
+                font-weight: 600;
+            }
+            .message-section {
+                margin-bottom: 15px;
+            }
+            .message-label {
+                font-weight: bold;
+                color: #374151;
+                font-size: 14px;
+                margin-bottom: 8px;
+                display: block;
+            }
+            .user-message {
+                background-color: #dcfce7;
+                border-left: 4px solid #22c55e;
+                padding: 12px;
+                border-radius: 6px;
+                font-family: inherit;
+                line-height: 1.5;
+            }
+            .assistant-message {
+                background-color: #dbeafe;
+                border-left: 4px solid #3b82f6;
+                padding: 12px;
+                border-radius: 6px;
+                font-family: inherit;
+                line-height: 1.5;
+            }
+            .footer { 
+                text-align: center; 
+                color: #666666; 
+                font-size: 12px; 
+                margin-top: 40px; 
+                padding-top: 20px; 
+                border-top: 2px solid #FFE5E6;
+            }
+            .footer p {
+                margin: 5px 0;
+            }
+            .badge {
+                display: inline-block;
+                padding: 4px 12px;
+                border-radius: 20px;
+                font-size: 12px;
+                font-weight: 600;
+                text-transform: uppercase;
+                letter-spacing: 0.5px;
+            }
+            .badge-active {
+                background-color: #28A745;
+                color: white;
+            }
+            .badge-ended {
+                background-color: #EC272E;
+                color: white;
+            }
+            @media (max-width: 768px) { 
+                .horizontal-sections { 
+                    flex-direction: column; 
+                }
+                .horizontal-section { 
+                    width: 100%; 
+                }
+                .info-grid { 
+                    grid-template-columns: 1fr; 
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+    
+            <div class="header">
+                <h1>Yazaki Chatbot Session Summary</h1>
+            </div>
+    <div class="horizontal-sections">
+            <div class="horizontal-section">
+                <h2>📊 Session Information</h2>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <span class="label">Session ID:</span>
+                        <div class="value">test_session_123...</div>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">Status:</span>
+                        <div class="value">
+                            <span class="badge badge-ended">ENDED</span>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">Duration:</span>
+                        <div class="value">30 minutes</div>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">Total Messages:</span>
+                        <div class="value">2 exchanges</div>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="horizontal-section">
+                <h2>👤 User Information</h2>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <span class="label">Name:</span>
+                        <div class="value">John Doe</div>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">Email:</span>
+                        <div class="value">john.doe@example.com</div>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">Company:</span>
+                        <div class="value">Test Company Ltd</div>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">Supplier Type:</span>
+                        <div class="value">Tier 1 Supplier</div>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">Location:</span>
+                        <div class="value">Tokyo, Japan</div>
+                    </div>
+                </div>
+            </div>
+    </div>
+            <div class="section">
+                <h2>💬 Conversation History</h2>
+    
+                <div class="conversation-exchange">
+                    <h4 class="exchange-header">Exchange 1 - 2025-11-03 11:43:44</h4>
+                    <div class="message-section">
+                        <span class="message-label">👤 User Question:</span>
+                        <div class="user-message">What are the requirements for APQP documentation?</div>
+                    </div>
+                    <div class="message-section">
+                        <span class="message-label">🤖 Assistant Response:</span>
+                        <div class="assistant-message"><p>Here are the key requirements for APQP documentation:</p>
+
+<li>Design Records</li>
+<p>   - All engineering drawings</p>
+<p>   - Math data</p>
+<p>   - Specifications</p>
+
+<p>2. Team Feasibility Commitment</p>
+<p>   - Signed by all team members</p>
+<p>   - Includes manufacturability assessment</p>
+
+<p>3. Design FMEA</p>
+<p>   - Potential failure modes</p>
+<p>   - Risk assessment</p>
+<p>   - Preventive actions</p>
+
+<p>For more detailed information, please refer to the APQP manual section 3.2.</p></div>
+                    </div>
+                </div>
+        
+                <div class="conversation-exchange">
+                    <h4 class="exchange-header">Exchange 2 - 2025-11-03 11:53:44</h4>
+                    <div class="message-section">
+                        <span class="message-label">👤 User Question:</span>
+                        <div class="user-message">Can you explain the Control Plan requirements?</div>
+                    </div>
+                    <div class="message-section">
+                        <span class="message-label">🤖 Assistant Response:</span>
+                        <div class="assistant-message"><p>The Control Plan should include:</p>
+
+<li>Pre-Launch Controls</li>
+<li>Production Controls</li>
+<li>Product Characteristics</li>
+<li>Process Characteristics</li>
+<li>Methods</li>
+<li>Sample Size and Frequency</li>
+<li>Control Methods</li>
+
+<p><strong>Note</strong>: All special characteristics must be included in the Control Plan with appropriate control methods.</p></div>
+                    </div>
+                </div>
+        
+            </div>
+            <div class="footer">
+                <p>This is an automated email from Yazaki Chatbot System</p>
+                <p>Generated on 2025-11-03 12:08:44</p>
+            </div>
+        </div>
+    </body>
+    </html>
+    

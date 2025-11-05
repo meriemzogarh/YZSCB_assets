@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+
+
+# Logs
+logs/
+*.log
+*.jsonl
+*.jsonl.*
+
+
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Docker
+.dockerignore
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Large model files
+*.bin
+*.onnx
+*.pt
+*.pth
+*.safetensors
+
+# Ollama models (if downloaded locally)
+models/
+
+# Cache directories
+.cache/
+__pycache__/
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Gradio temporary files
+gradio_cached_examples/
+flagged/

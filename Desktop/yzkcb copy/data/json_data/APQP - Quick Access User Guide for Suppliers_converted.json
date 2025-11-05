@@ -1,0 +1,3152 @@
+[
+  {
+    "page_content": "[TABLE 2 from Page 2]\n\nAPQP (Advanced Product  Quality Planning) Module | \n--------------\nSl.No | Sub-Sections\n1 | Login to QLM\n2 | Navigation to APQP (Advanced Product  Quality Planning) Project\n3 | Assigning Members to APQP (Advanced Product  Quality Planning) Project\n4 | View Task/Activity\n5 | Update Task Progress\n6 | Resubmitting the Task\n7 | Request Date Change for Task\n8 | Raise Warning/Risk Flag\n9 | Resolve – Warning/Risk Flag\n10 | History of Task Progress, Date Change Request & Flags\n11 | Project Dashboard\n12 | APQP (Advanced Product  Quality Planning) Listing Pages",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 2,
+      "type": "table",
+      "table_index": 1,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning) Quick Access User Guide\nAPQP (Advanced Product  Quality Planning) Module\nSl.No Sub-Sections\n1 Login to QLM\n2 Navigation to APQP (Advanced Product  Quality Planning) Project\n3 Assigning Members to APQP (Advanced Product  Quality Planning) Project\n4 View Task/Activity\n5 Update Task Progress\n6 Resubmitting the Task\n7 Request Date Change for Task\n8 Raise Warning/Risk Flag\n9 Resolve – Warning/Risk Flag\n10 History of Task Progress, Date Change Request & Flags\n11 Project Dashboard\n12 APQP (Advanced Product  Quality Planning) Listing Pages\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 2",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 2,
+      "type": "text",
+      "chunk_size": 448,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Login to QLM\nEnter the URL in browser for logging in QLM web page\nEnter the Username and Password\nEnter Captcha & Click on Sign-In\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 3",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 3,
+      "type": "text",
+      "chunk_size": 184,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Navigate to APQP (Advanced Product  Quality Planning) Program\n• Go to QLM menu and Click on APQP (Advanced Product  Quality Planning) → Projects.\n• Projects can also be filtered based on the Program #, Customer, Program Name, Program Manager etc.\n• Click on Action -> View to navigate into the required APQP (Advanced Product  Quality Planning) Project.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 5,
+      "type": "text",
+      "chunk_size": 296,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Assigning Members to APQP (Advanced Product  Quality Planning) Project\n• Click on the MENU on the right side to access the Members section.\n• Supplier  can assign the Supplier  Users and click on Update so that the assigned Users will have access to the\nrespective Tasks/Gate Review.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 7",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 7,
+      "type": "text",
+      "chunk_size": 298,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Navigation to Task\nTo navigate to the APQP (Advanced Product  Quality Planning) Task page, click on MENU -> Tasks in the view page of APQP (Advanced Product  Quality Planning) Project\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 9",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 9,
+      "type": "text",
+      "chunk_size": 163,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "View Task/Activity\n• Click on the Action button against the task and select View Task.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 10",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 10,
+      "type": "text",
+      "chunk_size": 141,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "View Task/Activity\n• Deliverable details added by the ASQE (Advanced Supplier  Quality Engineer)\nwill be visible in Activity Description\nsection.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 11",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 11,
+      "type": "text",
+      "chunk_size": 162,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Update Task Progress Status - Add Actuals\nTo Update the Progress of the Task, click on Action -> Add Actuals.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 13",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "text",
+      "chunk_size": 164,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Update Task Progress Status - Add Actuals\nUser can select the Date for which the progress update needs to\nbe added. By default, current date will be added.\nEnter the number of Hours worked (Optional)\nAdd the comments to explain the progress of the task\nAdd required files in the attachment section\nSelect the %Progress of the Task and then click on Submit.\nNOTE: If there is a Flag raised for an activity, the task cannot be\ncompleted to 100%\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 14",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "text",
+      "chunk_size": 497,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Resubmitting the task\n• If the Customer User rejects the task, the Rejected label is shown for the task and the status of task progress will go back\nto 0%.\n• Click on Action -> Add Actuals to update the Task Progress\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 16",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 16,
+      "type": "text",
+      "chunk_size": 271,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Request Date Change for Task\nThe Supplier  User assigned to the task can request for a Date Change.\nClick on Action -> Change Date against the task for which date change must be requested.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 18",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 18,
+      "type": "text",
+      "chunk_size": 242,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Request Date Change for Task\nSelect the Revised Due Date for the Task Completion.\nProvide the Reason for the Date Change Request in the\nBrief Description section.\nClick on Submit to request the Date Change.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 19",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 19,
+      "type": "text",
+      "chunk_size": 261,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Raise Warning Flag\nIf there are any concern/issues for a Task, the User can raise a Flag Warning by clicking on Action -> Flag Warning.\nIf there are Risks associated with a task, User can raise a Flag Risk by clicking on Action -> Flag Risk\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 21",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 21,
+      "type": "text",
+      "chunk_size": 295,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Raise Warning Flag\nUser can select if Cost, Quality and Time are\naffected.\nProvide the Description of the concern/issue.\n(Mandatory)\nUser can add the Risk Mitigation Actions.\n+\nClick on in the Next Steps section to add\nmitigation actions.\nClick on Submit after adding the actions.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 22",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 22,
+      "type": "text",
+      "chunk_size": 335,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 23]\n\nNote | :\n--------\nNote | :",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "table",
+      "table_index": 1,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Add Mitigation Actions for the Flag\nProvide the following details :\nName – Name of the Action.\nDescription – Description of the Action (Optional)\nResponsible User- Assign responsible supplier user for\nthe action in the Supplier  field.\nDue Date – assign due date by which the Action needs\nto be completed by the Responsible User.\nOnce Action details are provided, click on Create.\nUser can add multiple Actions for a flag.\nNote: If there is a Flag raised for an activity, the task\ncannot be completed to 100%\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 23",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "text",
+      "chunk_size": 562,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Add Mitigation Actions for the Flag\nThe User can also add additional Actions for the Flag that is already raised.\nClick on Action -> Next Steps against the task.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 24",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "text",
+      "chunk_size": 216,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Updating Flag Action Status\nThe Responsible User assigned for Flag actions can update the action status by clicking on symbol.\nClick on Change and then select the Progress update options like In progress, Complete or Cancelled.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 25",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "text",
+      "chunk_size": 282,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Updating Flag Action Status\nOn clicking the progress of the action, Pop up\nwindow opens\nEnter the description (optional)\nClick on Sign and Change to update the status\nof the action.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 26",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 26,
+      "type": "text",
+      "chunk_size": 236,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Resolve - Warning/Risk Flag\nOnce the Mitigation Action are completed for a Flag raised, the Flag can now be resolved.\nTo resolve a Flag, click on Action -> Flag Resolved.\nIn the Flag resolved window, Provide the Description on how the flag was resolved. (Mandatory)\nClick on Submit to resolve the Flag.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 28",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "text",
+      "chunk_size": 357,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Task Progress, Date Change Request & Flags\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 29",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 29,
+      "type": "text",
+      "chunk_size": 108,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Task Progress\nTo access the History of Task Progress, click on button.\nHistory of the Tasks along with Comments and Attachments are displayed.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 30",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 30,
+      "type": "text",
+      "chunk_size": 208,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Date Change\nTo access the History of Date Change, click on (clock) button.\nHistory of Date Changes along Current Due and Revised Due Dates are displayed.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 31",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "text",
+      "chunk_size": 219,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 32]\n\n | \n---\n32 | \n | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "table",
+      "table_index": 1,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Flags Raised\nTo view the History of Flags Raised for a task, click on symbol.\nHistory of Flag along with Actions can be viewed.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 32",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "text",
+      "chunk_size": 193,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Project/Phase Progress Dashboards\nIn the MENU, Click on the Dashboard to access all the Dashboards related to the Project.\nPhase wise/Overall Project Dashboards are available wherein the Progress of an individual Phase with all the\nstatuses can be tracked.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 34",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 34,
+      "type": "text",
+      "chunk_size": 311,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Tracking Key Tasks\nUpcoming Key Task/Activities can be tracked from the Dashboard itself.\nUsers can also directly navigate to that Key Task by clicking on the Upcoming\nKey Activities.\nIf there are any Risks associated with a Key Task i.e. If any Risk/Warning\nFlags have been raised for a Key task, those risks can also be viewed from\nthis Dashboard.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 35",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 35,
+      "type": "text",
+      "chunk_size": 404,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning) Listing Pages\nIn the APQP (Advanced Product  Quality Planning) Listing Page, there are following accordions\n1. My Task – It shows the list of activities that are assigned to logged-in user.\n2. My Flag – It shows the list of activities where logged-in user has raised flag.\n3. My Flag Action - It shows the list of all the Flag action raised for which the logged-in user is responsible user.\n4. My Issue - It shows the list of all the Issues for which the logged-in user is responsible to resolve.\n5. All APQP (Advanced Product  Quality Planning) – It shows the list of all the APQP (Advanced Product  Quality Planning) projects that are assigned to the supplier.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 37",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 37,
+      "type": "text",
+      "chunk_size": 611,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning)- My Tasks Listing Page\n• On clicking My Task Accordion, the user can see all the tasks that are assigned to the user.\n• The User can select the Status to Open to view the list of tasks that are yet to be completed.\n• On Selecting the Status to Closed, the user can view the list of all tasks that are completed.\n• For the Open Tasks, user can click on action button to update the Task progress, Raise flag and Request date change\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 38",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 38,
+      "type": "text",
+      "chunk_size": 489,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning)- My Flag Listing Page\n• On clicking My Flag Accordion, the user can see all the tasks that are logged-in user has raised.\n• The User can select the Status to Open to view the list of flagged tasks that are yet to be resolved.\n• On Selecting the Status to Closed, the user can view the list of all flagged tasks that are resolved.\n• For the Open Tasks, user can click on action button to update the Next Steps, View Activity.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 39",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 39,
+      "type": "text",
+      "chunk_size": 484,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning) – My Flag Action Listing Page\n• On clicking My Flag Action Accordion, the user can see all the flag actions raised for which the logged-in user is responsible to\nresolve.\n• The User can filter the actions by clicking on the Status and can select the following options.\n• Open - shows the list of all flag action steps that are to be completed.\n• In Progress- shows the list of all flag action steps that are In progress status.\n• Closed – shows the list of all flag actions that are completed.\n• The User can update the action status by clicking on change and by selecting the status as in Progress, Complete or Cancelled\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 40",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 40,
+      "type": "text",
+      "chunk_size": 681,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning) Quick Access User Guide\nfor Suppliers\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 1,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 1,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 1):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 1,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rovsi\n  2. empower QLM\n  3. APQP (Advanced Product  Quality Planning) Quick Access User Guide\n  4. &\n  5. —e\n  6. Sup\n  7. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  8. | <@ie | 4\n\nTotal steps identified: 8",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 1,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning) Quick Access User Guide\nAPQP (Advanced Product  Quality Planning) Module\nSl.No Sub-Sections\n1 Login to QLM\n2 Navigation to APQP (Advanced Product  Quality Planning) Project\n3 Assigning Members to APQP (Advanced Product  Quality Planning) Project\n4 View Task/Activity\n5 Update Task Progress\n6 Resubmitting the Task\n7 Request Date Change for Task\n8 Raise Warning/Risk Flag\n9 Resolve – Warning/Risk Flag\n10 History of Task Progress, Date Change Request & Flags\n11 Project Dashboard\n12 APQP (Advanced Product  Quality Planning) Listing Pages\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 2",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 2,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 2:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 2,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 2:\nAPQP (Advanced Product  Quality Planning) Module | \n--- | ---\nSl.No | Sub-Sections\n1 | Login to QLM\n2 | Navigation to APQP (Advanced Product  Quality Planning) Project\n3 | Assigning Members to APQP (Advanced Product  Quality Planning) Project\n4 | View Task/Activity\n5 | Update Task Progress\n6 | Resubmitting the Task\n7 | Request Date Change for Task\n8 | Raise Warning/Risk Flag\n9 | Resolve – Warning/Risk Flag\n10 | History of Task Progress, Date Change Request & Flags\n11 | Project Dashboard\n12 | APQP (Advanced Product  Quality Planning) Listing Pages",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 2,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 2,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 2):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 2,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. APQP (Advanced Product  Quality Planning) Quick Access User Guide\n  2. CQ\n  3. rgbsi\n  4. 7 ee eee\n  5. empower QLM\n  6. APQP (Advanced Product  Quality Planning) Module\n  7. a\n  8. SS 0\n  9. [2 iavationtoavapcea —SSSCSCS~“~S~—~S~“~S~S~S~S\n  10. a\n  11. Se\n  12. a\n  13. 2\n  14. [7 frcouestoatechangetorsk ——SSOSCSC~“~*~“‘*S*S*~“~*~*~“~S~S\n  15. | 8 alse Warning/Riskflag\n  16. [3 esohe=Wassingskigg ——SSSSCSCS~S~S~“~S~S~S\n  17. [10 ston oF sk rowess, te Change Reaues@fgs ———SSCSCS~S~S~ST\n  18. [un —siectosstboad) —SSOSC—~S\n  19. [=i stngrages =——SCSC=“‘“‘S*S*S*S*S*S*~“‘“‘SCSCSCSCS*~“‘CSNSCSCSC‘CSNCSC#*#\n  20. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  21. [<P | 4.\n\nTotal steps identified: 21",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 2,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Login to QLM\nEnter the URL in browser for logging in QLM web page\nEnter the Username and Password\nEnter Captcha & Click on Sign-In\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 3",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 3,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 3:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 3,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 3,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 3):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 3,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 3:\nwer QLM hy 1 4\n© BaD be ks\nme Sw Ger.\nSIGN IN RS .\nq 1\nL admin << i # ~ << ad E\n~ S °\nForget your password? Support i ne od > >\nes > aad Ls \\- / 7 ee i\nCaptcha gst votes , db VW a >\nots yr\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 3,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8222821354866028,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Se\n  2. Login to QLM\n  3. rQbsi\n  4. 7” ee a\n  5. empower QLM\n  6. Enter the URL in browser for logging in QLM web page\n  7. Enter the Username and Password\n  8. Enter Captcha & Click on Sign-In\n  9. CQ\n  10. empower QLM\n  11. i\n  12. “ih\n  13. BA\n  14. i,\n  15. &\n  16. SIGN IN\n  17. ~\n  18. Ss\n  19. &\n  20. ~ i\n  21. py\n  22. admin\n  23. /) 42 za\n  24. Ba\n  25. %\n  26. ~\n  27. eecococcece\n  28. <o\n  29. >\n  30. —~\n  31. Forgot your password?\n  32. Support\n  33. Ss\n  34. is\n  35. Captcha\n  36. 5151\n  37. co\n  38. n/\n  39. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  40. [<P i 4.\n\nTotal steps identified: 40",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 3,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Navigation to APQP (Advanced Product  Quality Planning) Project\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 4",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 4,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 4,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 4):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 4,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. Navigation to APQP (Advanced Product  Quality Planning) Project\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. | <@ie | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 4,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Navigate to APQP (Advanced Product  Quality Planning) Program\n• Go to QLM menu and Click on APQP (Advanced Product  Quality Planning) → Projects.\n• Projects can also be filtered based on the Program #, Customer, Program Name, Program Manager etc.\n• Click on Action -> View to navigate into the required APQP (Advanced Product  Quality Planning) Project.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 5,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 5:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 5,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 5,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 5):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 5,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 5:\nProgra... Y partimage POtNu.. y Related PartNum... y Custo.. y Sutinem.. y CommodityN.. y ProgramN.. y ProgramMan.. y Progran\nAPOP APQP (Advanced Product  Quality Planning).72195326\np rten | 72195326 72195326-€ FORO Ford BU (Business Unit) Connector - ~ Yazaki  Admin | Open |\n2 Connector\nWarap. 727094640W-Let\nSTELLANTIS EI Connection Systems. Plastic Parts Patric Vieira | Open |\n2022-00007 0\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 5,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9451866149902344,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. G2\n  2. rQbsi\n  3. Navigate to APQP (Advanced Product  Quality Planning) Program\n  4. 777” i a\n  5. empower QLM\n  6. e\n  7. Go to QLM menu and Click on APQP (Advanced Product  Quality Planning) > Projects.\n  8. e\n  9. Projects can also be filtered based on the Program #, Customer, Program Name, Program Manager etc.\n  10. Click on Action -> View to navigate into the required APQP (Advanced Product  Quality Planning) Project.\n  11. Sear\n  12. rch Part...\n  13. a\n  14. Home\n  15. My Task\n  16. Ly\n  17. Suppliers\n  18. My Flag\n  19. L-}\n  20. s| APQP (Advanced Product  Quality Planning)\n  21. My Flag Action\n  22. == Projects\n  23. My Issue\n  24. ~~\n  25. =\n  26. =\n  27. Compliance\n  28. All APQP (Advanced Product  Quality Planning)\n  29. PPAP (Production Part Approval Process)\n  30. *\n  31. Deviation\n  32. My APQP (Advanced Product  Quality Planning)\n  33. x\n  34. PPAP (Production Part Approval Process) Tools\n  35. (el\n  36. Plant Quality\n  37. rr\n  38. Help\n  39. APQP (Advanced Product  Quality Planning)-\n  40. APQP (Advanced Product  Quality Planning)-72195326-\n  41. Capacity\n  42. 72195326-\n  43. 72195326-E\n  44. FORD\n  45. Ford BU (Business Unit)\n  46. Connector\n  47. Connector\n  48. Yazaki  Admin\n  49. Tooling\n  50. ® View\n  51. ?\n  52. ee\n  53. i\n  54. »\n  55. Logout\n  56. i Apap-\n  57. 727094640W-Let\n  58. STELLANTIS\n  59. El\n  60. Connection Systems.\n  61. Plastic Parts\n  62. Patricia Vieira\n  63. Sear\n  64. rch Menu...\n  65. 2022-00007\n  66. 0\n  67. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  68. [<i i 4.\n\nTotal steps identified: 68",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 5,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Assigning Members to APQP (Advanced Product  Quality Planning) Project\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 6",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 6,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 6,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 6):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 6,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. Assigning Members to APQP (Advanced Product  Quality Planning) Project\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. [<P | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 6,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Assigning Members to APQP (Advanced Product  Quality Planning) Project\n• Click on the MENU on the right side to access the Members section.\n• Supplier  can assign the Supplier  Users and click on Update so that the assigned Users will have access to the\nrespective Tasks/Gate Review.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 7",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 7,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 7:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 7,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 7,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 7):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 7,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 7:\nAPOR P2195 326 2002 COG\" ? BA Project Name APQR £27\nFORD Project Manager Yaraki Adn\nemo Suppher 01 Supplier  Code 801\nEDS (Electrical Distribution System (eg. Wire Harness)). Project Status | open |\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 7,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.7191578149795532,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Assigning Members to APQP (Advanced Product  Quality Planning) Project\n  2. CQ\n  3. rQbsi\n  4. 7 Ee ee eee\n  5. empower QLM\n  6. e\n  7. Click on the MENU on the right side to access the Members section.\n  8. e\n  9. Supplier  can assign the Supplier  Users and click on Update so that the assigned Users will have access to the\n  10. respective Tasks/Gate Review.\n  11. Project Id\n  12. APOP-72195326-2022-00012\n  13. Project Name\n  14. APQP (Advanced Product  Quality Planning)-72195326-Connector\n  15. Customer\n  16. FORD\n  17. Yazaki  Admin\n  18. Project Manager\n  19. Supplier \n  20. Demo Supplier  01\n  21. Supplier  Code\n  22. DS-01\n  23. Project Type\n  24. EDS (Electrical Distribution System (eg. Wire Harness))\n  25. Project Status\n  26. Basic Info\n  27. Dashbeard\n  28. Prototype Part Number\n  29. Target Dates\n  30. Part Number\n  31. Connector / 72195326\n  32. Start Date\n  33. 04 Jul 2022\n  34. Members |\n  35. Tasks\n  36. =\n  37. Timeline\n  38. Issues\n  39. Role Users/Members\n  40. Decuments\n  41. Role Name\n  42. Users\n  43. Supplier \n  44. history\n  45. \\Q David Paul\n  46. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  47. | <d@ie | 4\n\nTotal steps identified: 47",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 7,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "View Task/Activity\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 8",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 8,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 8,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 8):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 8,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. View Task/Activity\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. [<P | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 8,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Navigation to Task\nTo navigate to the APQP (Advanced Product  Quality Planning) Task page, click on MENU -> Tasks in the view page of APQP (Advanced Product  Quality Planning) Project\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 9",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 9,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 9:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 9,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 9,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 9):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 9,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 9:\nScheduled Actual ~\nSNo In @ = Name Lead RESP = Start’ = Due Start End Priority Completed Sti\n2 APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\nBase ik\n70 = bia Ot Mar a “\n= arhbooat:d\n200\n202 = Design Reviews Be Vertic ation (DYPRR) [IT 21 Mat a \" Barcpet Slater\nron Design for Manufacturing and Assemisty Ot Mar a wo >.\n= bse:\n200 F 4\n708 New equipment and Lochity Req Ot Met 0 \" Tere re\n200\n20% = fool completion [IF Ot Mar a “\noF Tec.\n206 = Prototype Built (velisiation pester on ute vesit} a1 Mar a “ Change: Request\nco 200\nvor Peg inesting Drawings (RT Ot Mar a “\n208\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 9,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9039304852485657,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Navigation to Task\n  2. CQ\n  3. rQbsi\n  4. empower QLM\n  5. 7 Ee ee eee\n  6. To navigate to the APQP (Advanced Product  Quality Planning) Task page, click on MENU -> Tasks in the view page of APQP (Advanced Product  Quality Planning) Project\n  7. Element/Activities\n  8. + New Element\n  9. Scheduled\n  10. Actual\n  11. %\n  12. SNo |\n  13. Ly\n  14. = Name\n  15. Lead RESP\n  16. Start\n  17. Due Start End Priority Completed Sti\n  18. 2\n  19. APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\n  20. Basic Info\n  21. 2.01\n  22. =\n  23. ——\n  24. DFMEA\n  25. 01 Mar\n  26. Dashboard\n  27. 2021\n  28. —=\n  29. Target Dates\n  30. 2.02\n  31. Design Reviews & Verification (DVP&R (Design Validation Plan & Report)) KT\n  32. 01 Mar\n  33. 2021\n  34. Members\n  35. 2.03\n  36. =\n  37. —\n  38. Design for Manufacturing and Assembly\n  39. 01 Mar\n  40. 2021\n  41. r 4\n  42. oo)\n  43. Tasks\n  44. —\n  45. Timeline\n  46. 2.04\n  47. —\n  48. New equipment and facility Req.\n  49. 01 Mar\n  50. 2021\n  51. Issues\n  52. 2.05\n  53. =\n  54. Tool completion | KT\n  55. 01 Mar\n  56. 2021\n  57. Documents\n  58. 2.06\n  59. —\n  60. 01 Mar\n  61. Change Request\n  62. Prototype Built (validation prefer on site visit)\n  63. KT\n  64. 2021\n  65. =\n  66. 2.07\n  67. Engineering Drawings | KT\n  68. 01 Mar\n  69. 2021\n  70. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  71. | <d@ie | 4\n\nTotal steps identified: 71",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 9,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "View Task/Activity\n• Click on the Action button against the task and select View Task.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 10",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 10,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 10:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 10,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 10:\n01.1 ry = Performance specification (including service, spare part supply and David Paul, 11 15 0 Approaching\nrecycling concepts), agreed between supplier and customer is Jason Taylor Jul Jul\navailable. 2022 2022 | © Change Date\nSS | | | Se | es |\n01.2 = The product development status meets the stipulations laid down in — David Paul, 16 19 0 Approa\nthe requirements specification / performance specification. Technical Jason Taylor Jul Jul\nspecifications have been released. 2022 2022 |@@ Fag Risk\n01.3 = Material data are confirmed. The legal and customer stipulations are = Jason Taylor, 20 «25 0 Nev *) View Task\nfulfilled and the necessary material data have been entered in the David Paul Jul Jul f\nmaterials data sheet. 2022 2022 ae Re-assign\naS\n02 Process development @D Add Actuals\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 10,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8806617856025696,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 10:\nElement/Activities\nScheduled Actual\nTask Program Lead %\nSNo | A = Approval Name Name RESP Start Due Start End Priority Completed Status\n01 Product  development\n01.1 ry = Performance specification (including service, spare part supply and David Paul, 11 15 0 Approaching\nrecycling concepts), agreed between supplier and customer is Jason Taylor Jul Jul\navailable. 2022 2022 | © Change Date\nSS | | | Se | es |\n01.2 = The product development status meets the stipulations laid down in — David Paul, 16 19 0 Approa\nthe requirements specification / performance specification. Technical Jason Taylor Jul Jul\nspecifications have been released. 2022 2022 |@@ Fag Risk\n01.3 = Material data are confirmed. The legal and customer stipulations are = Jason Taylor, 20 «25 0 Nev *) View Task\nfulfilled and the necessary material data have been entered in the David Paul Jul Jul |\nmaterials data sheet. 2022 2022 ae Re-assign\naS\n02 Process development @D Add Actuals\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 10,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9681398272514343,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 10,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 10):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 10,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 10:\n@ = Performance specification dnciuding semis, spare part supply and | David Paul 1s o Appros ting Ez\n\nrecycling Concepts) agtesd between supgliet and customer is lasen Taylor Jul du\navailatale 2028 2042 D Change Date\n\n2 = The preriuet development status meets the tyulations lad down iy David Paul, 6 19 0 fom\nthe tequirements specification / pevformance specication Technical lasen Taylor Jul du\nspe Beaton: have been released, 2027 2022 PRD bag eve\n\n3 = Material deta are confirme:i The legal and customer ctpulatens are lasen Taylor 20% 0 Hed @ Views task\nfulfilled aad the necesuiry material deta have been entered if the Oavd Pou Jul du\nmateruk: data sheet 202 2862 a fe ean\n\nno ge ®D Aes Actua\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 10,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9034652709960938,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. View Task/Activity\n  2. CQ\n  3. rQbsi\n  4. 7” Ee es eee\n  5. empower QLM\n  6. e\n  7. Click on the Action button against the task and select View Task\n  8. Element/Activities\n  9. Task\n  10. Scheduled\n  11. Actual\n  12. %\n  13. Program Lead\n  14. SNo |\n  15. u\n  16. = Approval Name\n  17. Name\n  18. RESP\n  19. Start Due Start End Priority Completed\n  20. Status\n  21. 01\n  22. Product  development\n  23. 01.1\n  24. eo\n  25. Performance specification (including service, spare part supply and\n  26. David Paul\n  27. 11\n  28. 15\n  29. 0\n  30. Approaching\n  31. Jul\n  32. Jul\n  33. =\n  34. recycling concepts), agreed between supplier and customer is\n  35. Jason Taylor\n  36. available\n  37. 2022\n  38. 2022\n  39. U ( w crangeate | Date\n  40. 01.2\n  41. David Paul\n  42. 16\n  43. 19\n  44. 0\n  45. Approa\n  46. The product development status meets the stipulations laid down in\n  47. the requirements specification / performance specification. Technical\n  48. Jason Taylor\n  49. Jul\n  50. Jul\n  51. 2022 2022\n  52. }\n  53. jag Risk\n  54. specifications have been released\n  55. 01.3\n  56. Material data are confirmed. The legal and customer stipulations are\n  57. Jason Taylor,\n  58. 20\n  59. 25\n  60. Nev\n  61. * View Task\n  62. fulfilled and the necessary material data have been entered in the\n  63. David Paul\n  64. Jul\n  65. Jul\n  66. am FRe-assign\n  67. materials data sheet\n  68. 2022\n  69. 2022\n  70. 02\n  71. Process development\n  72. > Add Actuals\n  73. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  74. | <d@ie | 4\n\nTotal steps identified: 74",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 10,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "View Task/Activity\n• Deliverable details added by the ASQE (Advanced Supplier  Quality Engineer)\nwill be visible in Activity Description\nsection.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 11",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 11,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 11:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 11,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 11,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 11):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 11,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART (from image 2 on page 11):\n@ View Activity\n\nAcuvity\n\neformance spe fneluding service,\n\nsupply and tecyctu\n\nye\n\nnespts), agreed between\n\nsupplet anc customer 1 available\n\nSequence\n\navy\n\nStart Oue\n\n11 ful 2022 16 ful 2022\n\nOuration\n\nStatus\n\nLead Responsibilities\n\nJason Taylor, David Paul\n\nActivity Description\n\n* Premises table,\n\need and signet requested performance specification of Yara\n\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 11,
+      "type": "flowchart",
+      "image_index": 2,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 3 on page 11):\n@® Verne Livi\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 11,
+      "type": "image_text",
+      "image_index": 3,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. View Task/Activity\n  2. CQ\n  3. rQbsi\n  4. 7 Ee Ee eee\n  5. empower QLM\n  6. ® View Activity\n  7. Activity\n  8. Performance specification (including service, spare part\n  9. supply and recycling concepts), agreed between\n  10. supplier and customer is available.\n  11. ® View Task\n  12. Sequence\n  13. 01.1\n  14. Start\n  15. Due\n  16. e\n  17. 11 Jul 2022\n  18. 15 Jul 2022\n  19. Deliverable details added by the ASQE (Advanced Supplier  Quality Engineer)\n  20. Duration\n  21. will be visible in Activity Description\n  22. 4\n  23. section.\n  24. Status\n  25. Approaching\n  26. Lead Roles\n  27. Supplier \n  28. Lead Responsibilities\n  29. Jason Taylor, David Paul\n  30. Activity Description\n  31. * Premises table,\n  32. * Agreed and signed requested performance specification of Yazaki \n  33. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  34. [<P | 4\n\nTotal steps identified: 34",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 11,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Update Task Progress\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 12",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 12,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 12,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 12):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 12,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. Update Task Progress\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. | <@ie | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 12,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Update Task Progress Status - Add Actuals\nTo Update the Progress of the Task, click on Action -> Add Actuals.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 13",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 13:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 13:\n2.01 — DFMEA David 01 Mar 17 Apr 0 New Action?\nAllen 2021 2021 ,\n\n2.02 = Design Reviews & Verification (DVP&R (Design Validation Plan & Report))| KT) David 01 Mar 17 Apr 0 Na © Change Date\nAllen 2021 2021\n\n2.03 — Design for Manufacturing and Assembly David 01 Mar 17 Apr 0 N jon ;\nAllen 2021 2021 mag Risk\n\n2.04 = New equipment and facility Req. David 01 Mar 0 nq © View Task\nAllen 2021 ™®D Add Actuals\n\n2.05 — Tool completion KT David O1 Mar 0 \" ken\nAllen 2021\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8914880156517029,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 13:\nElement/ Activities\nScheduled Actual\ns Lead %\nNo [#@ © = Name RESP Start Due Start End Priority Completed Status\n2 APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development ||\n2.01 — DFMEA David 01 Mar 17 Apr 0 New Action?\nAllen 2021 2021 ;\n2.02 = Design Reviews & Verification (DVP&R (Design Validation Plan & Report))| KT David 01 Mar 17 Apr 0 Nq © Change Date\nAllen 2021 2021\n2.03 — Design for Manufacturing and Assembly David 01 Mar 17 Apr 0 N jon ;\nAllen 2021 2021 » Flag Risk\n2.04 — New equipment and facility Req. David 01 Mar 0 Ne * View Task\nAllen 2021 ® Add Actuals\n2.05 —| Tool completion KT David 01 Mar 0 “os\nAllen 2021\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6321459412574768,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 13):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 13:\nthew\n> Veewe Lick\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.7599837779998779,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 13:\nScheduled Actual\n5 lead *\nio In @ = Name RESP Start Oue — Start End Pricsity Completed Status\nAPQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\n\nan = bit David 01 Bhar 7 Age a thew\nAller ane ane\n\nae Dean Reaiews Be Verticatice (DVPRR (IT) Deve 01 Baar Fant 9 © Chance Date\nAller ane ane\n\nat TE Beugn for Manuta: turing and Assembly, David 01 Bhar 7 Age 0 .\nAller ane ane WB rt foe\n\na4 New equipment and facility Req David O1 Mar o D Voew Len\nAlls a7\n\nas = leo! completion [i Bavd 01 Bhar 0\nAller: De\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9324793219566345,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Update Task Progress Status - Add Actuals\n  2. CQ\n  3. rQbsi\n  4. 7 Ee ee eee\n  5. empower QLM\n  6. To Update the Progress of the Task, click on Action -> Add Actuals\n  7. Element/ Activities\n  8. Ss\n  9. Lead\n  10. Scheduled\n  11. Actual\n  12. %\n  13. No |\n  14. U\n  15. = Name\n  16. RESP\n  17. Start\n  18. Due\n  19. Start End Priority Completed Status\n  20. 2\n  21. APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\n  22. a\n  23. —=7\n  24. 2.01\n  25. DFMEA\n  26. David\n  27. O1 Mar\n  28. 17 Apr\n  29. Allen\n  30. 2021\n  31. 2021\n  32. 2.02\n  33. =\n  34. David\n  35. O1 Mar\n  36. N\n  37. \\ Change Date\n  38. Design Reviews & Verification (DVP&R (Design Validation Plan & Report)) KT\n  39. 17 Apr\n  40. Allen\n  41. 2021\n  42. 2021\n  43. 2.03\n  44. —=7\n  45. Design for Manufacturing and Assembly\n  46. David\n  47. O1 Mar\n  48. 17 Apr\n  49. j= Flag Risk\n  50. Allen\n  51. 2021\n  52. 2021\n  53. =\n  54. 2.04\n  55. New equipment and facility Req.\n  56. David\n  57. O1 Mar\n  58. * View Task\n  59. Allen\n  60. 2021\n  61. ® Add Actuals\n  62. —=7\n  63. 2.05\n  64. Tool completion | KT\n  65. David\n  66. O1 Mar\n  67. Ne\n  68. Action 3\n  69. Allen\n  70. 2021\n  71. © RGBSI COPYRIGHT 2021-\n  72. CONFIDENTIAL AND PROPRIETARY\n  73. | <d@ie | 4\n\nTotal steps identified: 73",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Update Task Progress Status - Add Actuals\nUser can select the Date for which the progress update needs to\nbe added. By default, current date will be added.\nEnter the number of Hours worked (Optional)\nAdd the comments to explain the progress of the task\nAdd required files in the attachment section\nSelect the %Progress of the Task and then click on Submit.\nNOTE: If there is a Flag raised for an activity, the task cannot be\ncompleted to 100%\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 14",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 14:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 14:\n\n---\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 14:\n, Drop files here to upload\n&% Pronre\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8803233504295349,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 14:\nHours Minutes\n|\nComments\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8557490110397339,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 14:\nDate\n\n16 Dec 2020 |\n\nHours Minutes\noo\nCommentc\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "table_scanned",
+      "table_index": 2,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8943480253219604,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 14):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 14:\n16 Dec 2020\nHours\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.7611036896705627,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Update Task Progress Status - Acc\n  2. CQ\n  3. robsi\n  4. empower QLM\n  5. 7 Ee ee eee\n  6. Date\n  7. 16 Dec 2020\n  8. Hours\n  9. Minutes\n  10. 1\n  11. 0\n  12. Comments\n  13. User can select the Date for which the progress update needs to\n  14. be added. By default, current date will be added.\n  15. Comments\n  16. Enter the number of Hours worked (Optional)\n  17. Add Files\n  18. Add the comments to explain the progress of the task\n  19. Add required files in the attachment section\n  20. % Progress\n  21. Select the %Progress of the Task and then click on Submit.\n  22. 0% 25% 50% 75% 100%\n  23. NOTE: If there is a Flag raised for an activity, the task cannot be\n  24. aa\n  25. completed to 100%\n  26. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  27. ©\n  28. | <d@ie | 4\n\nTotal steps identified: 28",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Resubmitting the Task\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 15",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 15,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 15,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 15):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 15,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. Resubmitting the Task\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. | <@ie | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 15,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Resubmitting the task\n• If the Customer User rejects the task, the Rejected label is shown for the task and the status of task progress will go back\nto 0%.\n• Click on Action -> Add Actuals to update the Task Progress\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 16",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 16,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 16:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 16,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 16,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 16):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 16,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 16:\nScheduled Actual .\ns %\nNo I= @ @ = Name Lead RESP Start Due —Start_End Priority Completed Status\n) APG Phase 2 Product  Design and Development\n0 = bres BEE Norman lemmings 1Mar 7 Agr 1 Mar 6 Appenachang\nlawn Tayler 2021 28 2021 \"\n02 = beugn Reviews Re Venticaten Jason Tayler GMéar 6 New\n(OVP ack (IT 2021 -\n03 = Beugn for Manufacturing and) lasen Tayler G Mat 6 New\nAssembly 2021 -\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 16,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8630037903785706,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. CQ\n  2. rQbsi\n  3. Resubmitting the task\n  4. 7 Ee ee eee\n  5. empower QLM\n  6. If the Customer User rejects the task, the Rejected label is shown for the task and the status of task progress will go back\n  7. to 0%.\n  8. Click on Action -> Add Actuals to update the Task Progress\n  9. Element/ Activities\n  10. _ New Element\n  11. Scheduled\n  12. Actual\n  13. S\n  14. %\n  15. U\n  16. —\n  17. = Name\n  18. Lead RESP\n  19. Start\n  20. Due\n  21. Start\n  22. Status\n  23. No ]\n  24. End Priority Completed\n  25. 2\n  26. APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\n  27. Action j\n  28. =\n  29. 2.01\n  30. Norman Hemmings,\n  31. 16 Mar\n  32. 02 Apr\n  33. 31 Mar\n  34. Approaching\n  35. Action 3\n  36. ores SE <a\n  37. Jason Taylor\n  38. 2021\n  39. 2021\n  40. 2021\n  41. [|\n  42. 2.02\n  43. =\n  44. 16 Mar\n  45. New\n  46. Change Date\n  47. Design Reviews & Verification\n  48. Jason Taylor\n  49. (DVP&R (Design Validation Plan & Report)) | KT\n  50. 2021\n  51. 2.03\n  52. =\n  53. Design for Manufacturing and\n  54. Jason Taylor\n  55. 16 Mar\n  56. New\n  57. 2021\n  58. j= Flag Risk\n  59. Assembly\n  60. * View Task\n  61. LP anson J\n  62. © RGBSI COPYRIGHT 2021\n  63. - CONFIDENTIAL AND PROPRIETARY\n  64. ©@\n  65. | <d@ie | 4\n\nTotal steps identified: 65",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 16,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Request Date Change for Task\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 17",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 17,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 17,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 17):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 17,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. Request Date Change for Task\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. | <@ie | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 17,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Request Date Change for Task\nThe Supplier  User assigned to the task can request for a Date Change.\nClick on Action -> Change Date against the task for which date change must be requested.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 18",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 18,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 18:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 18,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 18:\n | \n--- | ---\n | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 18,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 18,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 18):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 18,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 18:\nthew\n> Veewe Lick\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 18,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.7599837779998779,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 18:\nScheduled Actual\n5 lead *\nio In @ = Name RESP Start Oue — Start End Pricsity Completed Status\nAPQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\n\nan = bit David 01 Bhar 7 Age a thew\nAller ane ane\n\nae Dean Reaiews Be Verticatice (DVPRR (IT) Deve 01 Baar Fant 9 © Chance Date\nAller ane ane\n\nat TE Beugn for Manuta: turing and Assembly, David 01 Bhar 7 Age 0 .\nAller ane ane WB rt foe\n\na4 New equipment and facility Req David O1 Mar o D Voew Len\nAlls a7\n\nas = leo! completion [i Bavd 01 Bhar 0\nAller: De\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 18,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9324793219566345,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. CQ\n  2. rQbsi\n  3. Request Date Change for Task\n  4. 7” Ee es eee\n  5. empower QLM\n  6. The Supplier  User assigned to the task can request for a Date Change.\n  7. Click on Action -> Change Date against the task for which date change must be requested.\n  8. Element/ Activities\n  9. Scheduled\n  10. Actual\n  11. Ss\n  12. Lead\n  13. %\n  14. No |\n  15. U\n  16. — Name\n  17. RESP\n  18. Start\n  19. Due\n  20. Start End Priority Completed Status\n  21. 2\n  22. APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\n  23. =\n  24. 2.01\n  25. DFMEA\n  26. David\n  27. 01 Mar\n  28. 17 Apr\n  29. New\n  30. Action 3\n  31. Allen\n  32. 2021\n  33. 2021\n  34. 4\n  35. |\n  36. 2.02\n  37. David\n  38. O01 Mar\n  39. \\ Change Date |\n  40. Design Reviews & Verification (DVP&R (Design Validation Plan & Report)) kT\n  41. 1/ Apr\n  42. Allen\n  43. 2021\n  44. 2021\n  45. 2.03\n  46. =\n  47. Design for Manufacturing and Assembly\n  48. David\n  49. 01 Mar\n  50. 17 Apr\n  51. j= Flag Risk\n  52. Allen\n  53. 2021\n  54. 2021\n  55. =\n  56. 2 View Task\n  57. 2.04\n  58. New equipment and facility Req.\n  59. David\n  60. O1 Mar\n  61. Allen\n  62. 2021\n  63. ®D Add Actuals\n  64. 2.05\n  65. =\n  66. David\n  67. O1 Mar\n  68. Ne\n  69. Too! completion KT\n  70. Action 3\n  71. Allen\n  72. 2021\n  73. © RGBSI COPYRIGHT 2021\n  74. CONFIDENTIAL AND PROPRIETARY\n  75. [<P | 4\n\nTotal steps identified: 75",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 18,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Request Date Change for Task\nSelect the Revised Due Date for the Task Completion.\nProvide the Reason for the Date Change Request in the\nBrief Description section.\nClick on Submit to request the Date Change.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 19",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 19,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 19:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 19,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 19:\n| Date Change Request\nBrief Description:\nSt\n| Drenecen fear dete -h-ree\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 19,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6145824790000916,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 19:\nEE Ee\nJate Change Request for Task DFMEA\nRequest\nSubmission\nCurrent Due Revised Due\nV7 Apr 2021 17 Apr 2021 |\nDate Change Request:\nDate Change Request\nBrief Description:\nReason for date change |\nDescription + Add\n=\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 19,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.7815753817558289,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 19,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 19):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 19,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Request\n  2. « Submission\n  3. Current Due\n  4. Revised Duc\n  5. 17 Apr 2021\n  6. 17 Ape 2021\n  7. Date Change Request\n  8. Date Change Request\n  9. Brief Description:\n  10. Reson fot date change\n  11. Description\n  12. + add\n\nTotal steps identified: 12",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 19,
+      "type": "flowchart",
+      "image_index": 2,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. CQ\n  2. rQbsi\n  3. Request Date Change for Task\n  4. 7 le eee\n  5. empower QLM\n  6. Date Change Request for Task DFMEA\n  7. Request\n  8. * Submission\n  9. Current Due\n  10. Revised Due\n  11. 17 Apr 2021\n  12. 17 Apr 2021\n  13. Date Change Request:\n  14. Date Change Request\n  15. Select the Revised Due Date for the Task Completion.\n  16. Brief Description:\n  17. Provide the Reason for the Date Change Request in the\n  18. Reason for date change\n  19. Brief Description section.\n  20. Click on Submit to request the Date Change.\n  21. Description\n  22. + Add\n  23. ome f om\n  24. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  25. [<P | 4\n\nTotal steps identified: 25",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 19,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Raise Warning/Risk Flag\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 20",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 20,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 20,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 20):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 20,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. Raise Warning/Risk Flag\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. | <@ie | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 20,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Raise Warning Flag\nIf there are any concern/issues for a Task, the User can raise a Flag Warning by clicking on Action -> Flag Warning.\nIf there are Risks associated with a task, User can raise a Flag Risk by clicking on Action -> Flag Risk\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 21",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 21,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 21:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 21,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 21,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 21):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 21,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 21:\nthew\n> Veewe Lick\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 21,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.7599837779998779,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 21:\nScheduled Actual\n5 lead *\nio In @ = Name RESP Start Oue — Start End Pricsity Completed Status\nAPQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\n\nan = bit David 01 Bhar 7 Age a thew\nAller ane ane\n\nae Dean Reaiews Be Verticatice (DVPRR (IT) Deve 01 Baar Fant 9 © Chance Date\nAller ane ane\n\nat TE Beugn for Manuta: turing and Assembly, David 01 Bhar 7 Age 0 .\nAller ane ane WB rt foe\n\na4 New equipment and facility Req David O1 Mar o D Voew Len\nAlls a7\n\nas = leo! completion [i Bavd 01 Bhar 0\nAller: De\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 21,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9324793219566345,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. CQ\n  2. rQbsi\n  3. Raise Warning Flag\n  4. 7” Ee es eee\n  5. empower QLM\n  6. If there are any concern/issues for a Task, the User can raise a Flag Warning by clicking on Action -> Flag Warning.\n  7. If there are Risks associated with a task, User can raise a Flag Risk by clicking on Action -> Flag Risk\n  8. Element/ Activities\n  9. Scheduled\n  10. Actual\n  11. Ss\n  12. Lead\n  13. %\n  14. U\n  15. No |\n  16. — Name\n  17. RESP\n  18. Start\n  19. Due\n  20. Start End Priority Completed\n  21. Status\n  22. 2\n  23. APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\n  24. 2.01\n  25. =\n  26. DFMEA\n  27. David\n  28. 01 Mar\n  29. New\n  30. 17 Apr\n  31. Action 3\n  32. Allen\n  33. 2021\n  34. 2021\n  35. 2.02\n  36. Design Reviews & Verification (DVP&R (Design Validation Plan & Report)) kT\n  37. David\n  38. O01 Mar\n  39. 1/ Apr\n  40. \\ Change Date\n  41. Allen\n  42. 2021\n  43. 2021\n  44. =\n  45. 2.03\n  46. Design for Manufacturing and Assembly\n  47. David\n  48. 01 Mar\n  49. 17 Apr\n  50. Allen\n  51. 2021\n  52. 2021\n  53. |= Flag Risk\n  54. 2.04\n  55. =\n  56. David\n  57. O1 Mar\n  58. 2 View Task\n  59. New equipment and facility Req.\n  60. Allen\n  61. 2021\n  62. ®D Add Actuals\n  63. 2.05\n  64. =\n  65. David\n  66. O1 Mar\n  67. Ne\n  68. Too! completion KT\n  69. Action 3\n  70. Allen\n  71. 2021\n  72. © RGBSI COPYRIGHT 2021-\n  73. CONFIDENTIAL AND PROPRIETARY\n  74. [<P | 4\n\nTotal steps identified: 74",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 21,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Raise Warning Flag\nUser can select if Cost, Quality and Time are\naffected.\nProvide the Description of the concern/issue.\n(Mandatory)\nUser can add the Risk Mitigation Actions.\n+\nClick on in the Next Steps section to add\nmitigation actions.\nClick on Submit after adding the actions.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 22",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 22,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 22:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 22,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 22,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 22):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 22,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Manual Override Name:\n  2. *\n  3. Flag Yellow\n  4. Impact:\n  5. G Cost\n  6. & Quality\n  7. O Timing\n  8. *\n  9. Manual Override Description\n  10. [-\n  11. Impacting Cost and Quality.\n  12. Description\n  13. + Add\n  14. Next Steps:\n  15. #\n  16. Name\n  17. Description\n  18. Responsible User\n  19. Due Date\n  20. Status\n  21. No Steps found!!!\n\nTotal steps identified: 21",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 22,
+      "type": "flowchart",
+      "image_index": 2,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Raise Warning Flag\n  2. CQ\n  3. rQbsi\n  4. empower QLM\n  5. | Flag Yellow for Task Design Goal\n  6. Manual Override Name:\n  7. * ~~ Flag Yellow\n  8. User can select if Cost, Quality and Time are\n  9. Impact:\n  10. affected.\n  11. & Quality\n  12. O Timing\n  13. © Cost\n  14. * Manual Override Description:\n  15. Provide the Description of the concern/issue.\n  16. Impacting Cost and Quality.\n  17. (Mandatory)\n  18. User can add the Risk Mitigation Actions.\n  19. Description\n  20. “+ Add\n  21. Click on F in the Next Steps section to add\n  22. | Next Steps:\n  23. ————\n  24. > +\n  25. # Name\n  26. Description\n  27. Responsible User\n  28. Due Date\n  29. Status\n  30. No Steps found!!!\n  31. mitigation actions.\n  32. Click on Submit after adding the actions.\n  33. fore |\n  34. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  35. [<P | 4\n\nTotal steps identified: 35",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 22,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Add Mitigation Actions for the Flag\nProvide the following details :\nName – Name of the Action.\nDescription – Description of the Action (Optional)\nResponsible User- Assign responsible supplier user for\nthe action in the Supplier  field.\nDue Date – assign due date by which the Action needs\nto be completed by the Responsible User.\nOnce Action details are provided, click on Create.\nUser can add multiple Actions for a flag.\nNote: If there is a Flag raised for an activity, the task\ncannot be completed to 100%\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 23",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 23:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 23:\nNote | :",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 23):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Manual Override Name:\n  2. *\n  3. Flag Yellow\n  4. Impact:\n  5. G Cost\n  6. & Quality\n  7. O Timing\n  8. *\n  9. Manual Override Description\n  10. [-\n  11. Impacting Cost and Quality.\n  12. Description\n  13. + Add\n  14. Next Steps:\n  15. #\n  16. Name\n  17. Description\n  18. Responsible User\n  19. Due Date\n  20. Status\n  21. No Steps found!!!\n\nTotal steps identified: 21",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "flowchart",
+      "image_index": 2,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. +> Add Next Step\n  2. Name\n  3. *\n  4. Metagite Cou Rok\n  5. Description\n  6. *#Responsible User\n  7. Internal\n  8. Select Rewsonuible Urer\n  9. Supplier \n  10. Oavid Aller\n  11. Oue Date\n  12. a Ea\n\nTotal steps identified: 12",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "flowchart",
+      "image_index": 3,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. CQ\n  2. rQbsi\n  3. Add Mitigation Actions for the Flag\n  4. empower QLM\n  5. 7” ee eee\n  6. | Flag Yellow for Task Design Goal\n  7. Provide the following details :\n  8. * Fl sf Add Next Step\n  9. Name — Name of the Action.\n  10. Im\n  11. Description — Description of the Action (Optional)\n  12. Name\n  13. *| Mitigate Cost Risk\n  14. Responsible User- Assign responsible supplier user for\n  15. Description\n  16. Description\n  17. the action in the Supplier  field.\n  18. Due Date — assign due date by which the Action needs\n  19. *Responsible User\n  20. to be completed by the Responsible User.\n  21. Internal\n  22. Select Responsible User...\n  23. Once Action details are provided, click on Create.\n  24. Supplier \n  25. Ne\n  26. +\n  27. User can add multiple Actions for a flag.\n  28. Due Date\n  29. | 16 Apr 2021\n  30. Note: If there is a Flag raised for an activity, the task\n  31. cannot be completed to 100%\n  32. [|\n  33. foe Po\n  34. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  35. [die | 4.\n\nTotal steps identified: 35",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Add Mitigation Actions for the Flag\nThe User can also add additional Actions for the Flag that is already raised.\nClick on Action -> Next Steps against the task.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 24",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 24:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 24:\nElement/Activities\nScheduled Actual\ns Lead %\nNo [© @ = Name RESP Start Due Start End Priority Completed Status\n2 — APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\n2.01 — DFMEA David O1Mar = 17 Apr 0 oe\nAe 202 TT\n2.02 = Design Reviews & Verification (DVP&R (Design Validation Plan & Report)) David 01 Mar 17 Apr i) Neq  * Change Date\nKT Allen 2021 2021 I Flag Risk\n2.03 = Design for Manufacturing and Assembly David 01 Mar 17 Apr 0 Warni Jr\nAllen 3071 3071 = Flag Resolved\nf\n\\\n2.04 = New equipment and facility Req. David 01 Mar 0 Nev # Next Steps |\nAllen 2021 5) View Task\n2.05 = Taol completion | Kt David 01 Mar 0 Ne\n— eS\nAllen 2021 > Add Actuals\n2.06 = Prototype Built (validation prefer on site David 01 Mar 0 New\nvisit) KT Allen 2021\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.7312963008880615,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 24:\n2.01 — DFMEA David O1Mar = 17 Apr 0 we\n| =) © 7-24 © 7-2)\n2.02 = Design Reviews & Verification (DVP&R (Design Validation Plan & Report)) David 01 Mar 17 Apr i) Neq  * Change Date\nKT Allen 2021 2021 I Flag Risk\n\n2.03 = Design for Manufacturing and Assembly David 01 Mar 17 Apr 0 Warnil Jr\n\nAllen 2021 2021 pe Flag Resolved\n\nf\ny of\n\n2.04 = New equipment and facility Req. David 01 Mar 0 Nev # Next Steps\n\nAllen 2021 5) View Task\n2.05 = Taol completion | Kt David 01 Mar 0 Ne\n\n— eS\n\nAllen 2021 > Add Actuals\n\n2.06 = Prototype Built (validation prefer on site David 01 Mar 0 New\nvisit) KT Allen 2021\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9336050748825073,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 24):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 24:\nD change Date\nwo BB tag Revotvest\nBeet stops\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6182224750518799,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 24:\nScheduled Actual\ns lead *\nNo In @ = Name RESP Stast Que = Start End Pricsity Completed — Status\n2 APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\nrar = bit David Ol Mar 17 Ape 9° Waring hewn t\nAllee 2021 2021 “\n20% Dean Reviews & Veriticatien (DYPRR) Bava G1 Mar 17 Ape 9 © Chance Date\na Allee 2021 2021 ee\nat Sl Deugn for Manufacturing and Assembly David G1 Mar 1? Ape o Ward .\nAllee 3001 2021 PRD tag Restrnt\n2 OA New equipment and freility Req Davad OL Mar by) y ed\nAllee 2021 @® Vow tsk\n22% = leo! completion [i Bavd O1 Mar 0\nAllee 3001 ®D sea rus\n> 2% = Prototype Built (valtiation prefer onsite David G1 Mat 9 thew\nsun (RE (Resident Engineer) Allen poet *\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9459559917449951,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. SQ\n  2. rQbsi\n  3. Add Mitigation Actions for the Flag\n  4. 7” eee\n  5. empower QLM\n  6. The User can also add additional Actions for the Flag that is already raised.\n  7. Click on Action -> Next Steps against the task.\n  8. Element/Activities\n  9. Ss\n  10. Lead\n  11. Scheduled\n  12. Actual\n  13. %\n  14. No |\n  15. iS\n  16. = Name\n  17. RESP\n  18. Start\n  19. Due\n  20. Start End Priority Completed\n  21. Status\n  22. 2\n  23. APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\n  24. 2.01\n  25. —\n  26. —\n  27. DFMEA\n  28. David\n  29. 01 Mar\n  30. —\n  31. 17 Apr\n  32. _Allen\n  33. 2021\n  34. 2021\n  35. =\n  36. 2.02\n  37. Design Reviews & Verification (DVP&R (Design Validation Plan & Report))\n  38. David\n  39. 01 Mar\n  40. 17 Apr\n  41. N\n  42. \\ Change Date\n  43. KT\n  44. Allen\n  45. 2021\n  46. 2021\n  47. [= Flag Risk\n  48. 2.03\n  49. =\n  50. David\n  51. 01 Mar\n  52. Design tor Manufacturing and Assembly\n  53. 17 Apr\n  54. Warni\n  55. Allen\n  56. 2021\n  57. 2021\n  58. |® Flag Resolved\n  59. 2.04\n  60. =\n  61. New equipment and facility Req.\n  62. David\n  63. 01 Mar\n  64. @ Next Steps\n  65. Allen\n  66. 2021\n  67. Nev\n  68. * View Task\n  69. —=\n  70. 2.05\n  71. Too! completion | KT\n  72. David\n  73. 01 Mar\n  74. Ne\n  75. Allen\n  76. 2021\n  77. > Add Actuals\n  78. 2.06\n  79. Prototype Built (validation prefer on site\n  80. David\n  81. 01 Mar\n  82. New\n  83. visit) KT\n  84. Allen\n  85. 2021\n  86. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  87. [<P | 4.\n\nTotal steps identified: 87",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Updating Flag Action Status\nThe Responsible User assigned for Flag actions can update the action status by clicking on symbol.\nClick on Change and then select the Progress update options like In progress, Complete or Cancelled.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 25",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 25:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 25:\n\n---\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 25):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 25:\n|\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9004573822021484,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 25:\nScheduled Actual %\n\nS Lead Compl\n\nNo  G@=Name Responsibilities Start Due Start End Priority eted Status\n\n| Phase 1 - Activities + o#\n\nma G= Design Goal KT Norman 16 Dec 31Dec 16 Dec 50 Warning\n\nHemmings 2020 2020 2020\n\n2 Quality & Norman 31 Dec 07 Jan 0 New\nReliability Goals Hemmings 2020 2021\n\n3 Preliminary Bill Of Norman O07 Jan = 13 Jan 0 New\nMaterial Hemmings 2021 2021\n\n4 Preliminary Norman 13 Jan  21Jan 0 New\nProcess Flow Hemmings 2021 2021\nChart\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9513143301010132,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. 22 Manual Override History\n  2. admii\n  3. Name\n  4. '\n  5. y Yellow\n  6. Updated By\n  7. “mu\n  8. Updated At\n  9. Mat\n  10. Description\n  11. te\n  12. Impact\n  13. @ cust,\n  14. eu\n  15. i)\n  16. Next Steps\n  17. .\n  18. Next Step\n  19. Description\n  20. Responsible User\n  21. Oue Date\n  22. Status\n  23. Now\n  24. Heo\n  25. Mtrtapate Cot Ree\n  26. OF Age\n\nTotal steps identified: 26",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "flowchart",
+      "image_index": 4,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Updating Flag Action Status\n  2. SQ\n  3. rgvsi\n  4. empower QLM\n  5. 7 ee a\n  6. The Responsible User assigned for Flag actions can update the action status by clicking on\n  7. symbol.\n  8. ?= Manual Override History\n  9. Element/Activities\n  10. by ad MIN 2st 3/31/2021 11:32:44 AM\n  11. S\n  12. No\n  13. mw G= Name\n  14. Status\n  15. Name\n  16. Flag Yellow\n  17. admin\n  18. 31 Mar 2021 11:32 AM\n  19. 1\n  20. Phase 1 - Activities\n  21. Updated By\n  22. Updated At\n  23. + #\n  24. Description\n  25. Cost Impact\n  26. 1.1\n  27. Impact\n  28. @ Cost\n  29. ® auality\n  30. @ Timing\n  31. Warning\n  32. Next Steps\n  33. =\n  34. 1.2\n  35. Quality &\n  36. # Next Step\n  37. Description\n  38. Responsible User\n  39. Due Date\n  40. Status\n  41. New\n  42. Reliability\n  43. 1 Mitigate Cost Risk\n  44. Norman Hemmings\n  45. 09 Apr 2021\n  46. 1.3\n  47. Prelimina\n  48. = -\n  49. New\n  50. In Progress\n  51. Material\n  52. Complete\n  53. 1.4\n  54. Prelimina\n  55. Cancelled\n  56. New\n  57. en ee od TD\n  58. em\n  59. Click on Change and then select the Progress update options like In progress, Complete or Can\n  60. celled.\n  61. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  62. | <@iPe | 4.\n\nTotal steps identified: 62",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Updating Flag Action Status\nOn clicking the progress of the action, Pop up\nwindow opens\nEnter the description (optional)\nClick on Sign and Change to update the status\nof the action.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 26",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 26,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 26:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 26,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 26,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 26):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 26,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Name:\n  2. .\n  3. Compiete\n  4. Description:\n  5. Senate\n  6. Noon birenmnanggs\n  7. Snr\n  8. Fe Pm]\n\nTotal steps identified: 8",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 26,
+      "type": "flowchart",
+      "image_index": 2,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. Updating Flag Action Status\n  3. 7” Ee es eee\n  4. empower QLM\n  5. Change Flag Action Status to Complete\n  6. Nam\n  7. * | Complete\n  8. Description:\n  9. On clicking the progress of the action, Pop up\n  10. window opens\n  11. Enter the description (optional)\n  12. Click on Sign and Change to update the status\n  13. Signature\n  14. of the action.\n  15. he\n  16. DP,\n  17. DB\n  18. Norman Hemming\n  19. Piet [ue [oe | cm\n  20. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  21. [<P | 4\n\nTotal steps identified: 21",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 26,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Resolve - Warning/Risk Flag\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 27",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 27,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 27,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 27):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 27,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. Resolve - Warning/Risk Flag\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. | <@ie | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 27,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Resolve - Warning/Risk Flag\nOnce the Mitigation Action are completed for a Flag raised, the Flag can now be resolved.\nTo resolve a Flag, click on Action -> Flag Resolved.\nIn the Flag resolved window, Provide the Description on how the flag was resolved. (Mandatory)\nClick on Submit to resolve the Flag.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 28",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 28:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 28:\n |  | \n--- | --- | ---\n |  | \n |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 28:\n\n---\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "table",
+      "table_index": 2,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 28):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 28:\nScheduled Actual\ns lead *\nNo In @ = Name RESP Stast Que = Start End Pricsity Completed — Status\n> APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and Development\nOt = bit David Ol Mar 17 Ape 9° Waring hewn t\nAllee 2021 2021 .\n8 Dean Reviews & Veriticatien (DYPRR) Bava G1 Mar 17 Ape 9 © Chance Date\na Allee 2021 2021 ee\nat Sl Deugn for Manufacturing and Assembly David G1 Mar 1? Ape o Ward .\nAllee 3001 2021 PRD tag Restrnt\n> OA New equipment and freility Req Davad OL Mar by) y ed\nAllee 2021 @® Vow tsk\nO% = leo! completion [i Bavd O1 Mar 0\nAllee 3001 ®D sea rus\n25 = Prototype Built (valtiation prefer onsite David G1 Mat 9 thew\nsyisat) (ip Aller 2021 *\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9490019679069519,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 28:\nManual Override Name:\nFlag Resolved\n| Manual Override Description:\nsa]\nCost and Quality Flag resolved\n‘\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6986189484596252,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. CQ\n  2. Resolve - Warning/Risk Flag\n  3. rQbsi\n  4. 7” ee eee\n  5. empower QLM\n  6. Once the Mitigation Action are completed for a Flag raised, the Flag can now be resolved\n  7. To resolve a Flag, click on Action -> Flag Resolved\n  8. In the Flag resolved window, Provide the Description on how the flag was resolved. (Mandatory)\n  9. Click on Submit to resolve the Flag\n  10. Element/ Activities\n  11. Flag Resolved for Task Design Goal\n  12. $\n  13. Manual Override Name\n  14. %\n  15. No\n  16. ]\n  17. 13\n  18. —= Name\n  19. pleted\n  20. Status\n  21. * — Flag Resolved\n  22. 2\n  23. APQP (Advanced Product  Quality Planning) Phase 2 Product  Design and De\n  24. 2.01\n  25. DFMEA\n  26. * Manual Override Description\n  27. )\n  28. \\ Change Date\n  29. 2.02\n  30. Design Reviews & Verification\n  31. Cost and Quality Flag resolved\n  32. KT\n  33. |@ Flag Risk\n  34. 2.03\n  35. =\n  36. Design for Manufacturing and\n  37. : [= ] Flag Resolved\n  38. 2.04\n  39. —=\n  40. @ Next Steps\n  41. New equipment and facility R\n  42. Description\n  43. *F Add\n  44. * View Task\n  45. 2.05\n  46. —=\n  47. Ne\n  48. Too! completion | Kt\n  49. ®D Add Actuals\n  50. 2.06\n  51. Prototype Built (validation pre\n  52. New\n  53. Es\n  54. =\n  55. visit) | KT\n  56. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  57. [die | 4.\n\nTotal steps identified: 57",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Task Progress, Date Change Request & Flags\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 29",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 29,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 29,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 29):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 29,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. History of Task Progress, Date Change Request & Flags\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. | <@ie | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 29,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Task Progress\nTo access the History of Task Progress, click on button.\nHistory of the Tasks along with Comments and Attachments are displayed.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 30",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 30,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 30:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 30,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 30:\n\n---\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 30,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 30,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 30):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 30,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 30:\nScheduled Actual %\nLead Comple\nNo © G = Name Responsibilities Start Due Start End Priority ted Status\nPhase 1 - Activities + #\n| © Design Goal | KT Karthik S 17 Dec 19 Dec 0 Warning\n2020 2020\n\n= Quality & Reliability Karthik S 27Dec = O3Jan. = 21Dec ~—-21 Dec 100\nGoals 2020 2021 2020 2020\n\n3 = Preliminary Bill Of Karthik S O3Jan O9Jan 21 Dec 50 Warning\nMaterial 2021 2021 2020\n\nL Preliminary Process — Karthik S 09 Jan 17 Jan 0 New\nFlow Chart 2021 2021\n\nPreliminary List of Karthik S 17 Jan 22 Jan 0 New\nSpecial Product  & 2021 2021\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 30,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9564911127090454,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 30:\nee OSE init fei\n\nDate User Comments Hours Minutes Progress By At\n\n22 Dec Norman 3 0 admin 22 Dec 2026\n7020 Hommurgs 523 PM (Program/Project Manager)\n\n22Dec Norman Task Completes. $ 0 admir 22 Dec 2020 G\n2020 Hemmirgs S23 PM (Program/Project Manager)\n\n22 Dec Norman 75% Task completed Refer Document 1 0 admir = 22 Dec 2020 G\n2020 Hemmirgs attached. $22 PM (Program/Project Manager)\n\n21Dec  Nerman 1 Li) admir 21 Dec 2020\n2020 Hemmirgs SS1PM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 30,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9814414978027344,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. History of Task Progress\n  2. CQ\n  3. rQbsi\n  4. 7” ee eee\n  5. empower QLM\n  6. To access the History of Task Progress, click on [=| button.\n  7. History of the Tasks along with Comments and Attachments are displayed.\n  8. Scheduled\n  9. Actual\n  10. %\n  11. Lead\n  12. Comple\n  13. SNo © G = Name\n  14. Responsibilities\n  15. Start\n  16. Due\n  17. Start\n  18. End\n  19. Priority\n  20. ted\n  21. Status\n  22. 1\n  23. Phase 1 - Activities\n  24. Actual duration spent on the Activity\n  25. + #\n  26. 1.1\n  27. o)\n  28. Design Goal KT\n  29. Karthik\n  30. Warning\n  31. Due\n  32. 09 Jan 2021\n  33. In Process\n  34. —\n  35. 1.2\n  36. —\n  37. Quality & Reliability\n  38. Karthik\n  39. Name\n  40. Preliminary Bill Of Material\n  41. 100\n  42. Start\n  43. 03 Jan 2021\n  44. Goals\n  45. Duration\n  46. 6\n  47. 1.3\n  48. —\n  49. —\n  50. Karthik\n  51. Update\n  52. admin @ 22 Dec 2020 5:23 PM (Program/Project Manager)\n  53. 50\n  54. Preliminary Bill Of\n  55. Warning\n  56. Material\n  57. az\n  58. Duration\n  59. Last Update\n  60. 1.4\n  61. Karthik\n  62. He\n  63. New\n  64. Preliminary Process\n  65. Date\n  66. User\n  67. Comments\n  68. Hours Minutes Progress By\n  69. At\n  70. Flow Chart\n  71. 22 Dec\n  72. Norman\n  73. 3\n  74. 0\n  75. ps}\n  76. admin\n  77. 22 Dec 2020\n  78. 1.5\n  79. Preliminary List of\n  80. Karthik\n  81. 2020\n  82. Hemmings\n  83. 5:23 PM (Program/Project Manager)\n  84. New\n  85. 22 Dec\n  86. Norman\n  87. Task Completed\n  88. 5\n  89. 0\n  90. admin\n  91. 22 Dec 2020\n  92. Special Product  &\n  93. 2020\n  94. Hemmings\n  95. 5:23 PM (Program/Project Manager)\n  96. 22 Dec\n  97. Norman\n  98. 1\n  99. 0\n  100. admin\n  101. 22 Dec 2020\n  102. 2020\n  103. attached.\n  104. 75% Task completed. Refer Document\n  105. 5:22 PM (Program/Project Manager)\n  106. Hemmings\n  107. 21 Dec\n  108. Norman\n  109. 1\n  110. 0\n  111. admin\n  112. 21 Dec 2020\n  113. 2020\n  114. Hemmings\n  115. 5:51 PM (Program/Project Manager)\n  116. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  117. [<P | 4.\n\nTotal steps identified: 117",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 30,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Date Change\nTo access the History of Date Change, click on (clock) button.\nHistory of Date Changes along Current Due and Revised Due Dates are displayed.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 31",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 31:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 31:\n\n---\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 31):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 31:\nScheduled Actual %\nLead Comple\nNo © G = Name Responsibilities Start Due Start End Priority ted Status\nPhase 1 - Activities + #\n| © Design Goal | KT Karthik S 17 Dec 19 Dec 0 Warning\n2020 2020\n\n= Quality & Reliability Karthik S 27Dec = O3Jan. = 21Dec ~—-21 Dec 100\nGoals 2020 2021 2020 2020\n\n3 = Preliminary Bill Of Karthik S O3Jan O9Jan 21 Dec 50 Warning\nMaterial 2021 2021 2020\n\nL Preliminary Process — Karthik S 09 Jan 17 Jan 0 New\nFlow Chart 2021 2021\n\nPreliminary List of Karthik S 17 Jan 22 Jan 0 New\nSpecial Product  & 2021 2021\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9564911127090454,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 31:\nApproved ty admin a: 12/21/2020 12.05.25 em Vv\nCurrent Due 27 Dec 2020 Revised Due 19 Dec 2020\n\nRequest Status Approved\n\nName Date Change Request Approval\n\nUpdated By admin Updated At 21 Dec 2020 12:05 PM (Program/Project Manager)\n\nRequested by admin a: 12/21/2020 12.05.14 PM (Program/Project Manager) >\nRejected by admin a: 12/21/2020 120450 9m >\nRequested by admin a: 12/21/2020 1204.38 eM >\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.7408245205879211,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 31:\nOQ\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6035853028297424,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. CQ\n  2. rQbsi\n  3. History of Date Change\n  4. 7” Ee es eee\n  5. empower QLM\n  6. To access the History of Date Change, click on (clock) button.\n  7. History of Date Changes along Current Due and Revised Due Dates are displayed.\n  8. Scheduled\n  9. Actual\n  10. %\n  11. Lead\n  12. Comple\n  13. SNo © @ = Name\n  14. Responsibilities\n  15. Start\n  16. Due\n  17. Start\n  18. End\n  19. Priority\n  20. ted\n  21. Status\n  22. 1\n  23. Phase 1 - Activities\n  24. + #\n  25. 1.1\n  26. Design Goal KT\n  27. Warning\n  28. 7= Date Change Request History\n  29. 1.2\n  30. Quality & Reliabilit\n  31. Approved by admin at 12/21/2020 12:05:25 PM (Program/Project Manager)\n  32. Goals\n  33. 1.3\n  34. Preliminary Bill Of\n  35. Current Due\n  36. 27 Dec 2020\n  37. Revised Due\n  38. 19 Dec 2020\n  39. Warning\n  40. Request Status\n  41. Approved\n  42. Material\n  43. Name\n  44. Date Change Request Approval\n  45. 1.4\n  46. Preliminary Process\n  47. Updated By\n  48. admin\n  49. Updated At\n  50. 21 Dec 2020 12:05 PM (Program/Project Manager)\n  51. New\n  52. Flow Chart\n  53. 1.5\n  54. Requested by admin a: 12/21/2020 12:05:14 PM (Program/Project Manager)\n  55. New\n  56. Preliminary List of\n  57. Special Product  &\n  58. Rejected by admin at 12/21/2020 12:04:50 PM (Program/Project Manager)\n  59. Requested by admin a: 12/21/2020 12:04:38 PM (Program/Project Manager)\n  60. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  61. [<P | 4.\n\nTotal steps identified: 61",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Flags Raised\nTo view the History of Flags Raised for a task, click on symbol.\nHistory of Flag along with Actions can be viewed.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 32",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 32:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 32:\n | \n--- | ---\n32 | \n | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 32:\n\n---\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "table",
+      "table_index": 2,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 32):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 32:\nScheduled Actual %\nLead Comple\nNo BJ © G = Name Responsibilities Start Due Start End Priority ted Status\nPhase 1 - Activities + #\n| Design Goal | KT Karthik S 17 Dec 19 Dec 0 Warning\n2020 2020\n\n= Quality & Reliability — Karthik S 27Dec = 03Jan.—s 21 Dec _~—.21 Dec 100\nGoals 2020 2021 2020 2020\n\n= Preliminary Bill Of Karthik S O3Jan O9Jan 21 Dec 50 Warning\nMaterial 2021 2021 2020\n\n| Preliminary Process — Karthik S 09 Jan 17 Jan 0 New\nFlow Chart 2021 2021\n\n) Preliminary List of Karthik S 17 Jan 22 Jan 0 New\nSpecial Product  & 2021 2021\n| eee\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9471319913864136,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 32:\n|_|\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9539740681648254,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 32:\nName F heey Yercow\n\nUpdated By admin Updated at A Mas 2021 10.28 AM\nDescription APP meseting\n\nImpact @ con @ onsiity @ iirmn:;\n\nNext Steps\n\n= NextStep Description —Responsible User Due Date Status\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6762147545814514,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. CQ\n  2. rQbsi\n  3. History of Flags Raised\n  4. 7 Ee es eee\n  5. empower QLM\n  6. To view the History of Flags Raised for a task, click on\n  7. symbol.\n  8. History of Flag along with Actions can be viewed.\n  9. 7= Manual Override History\n  10. SNo BOG\n  11. = Name\n  12. by admin at 3/31/2021 10:28:43 AM\n  13. 1\n  14. Phase 1 - Activities\n  15. + #\n  16. 1.1\n  17. Design Goal KT\n  18. .\n  19. 1.2\n  20. Quality & Reliability\n  21. Name\n  22. Flag Yellow\n  23. Goals\n  24. Updated By\n  25. admin\n  26. Updated At\n  27. 31 Mar 2021 10:28 AM\n  28. 1.3\n  29. Description\n  30. APQP (Advanced Product  Quality Planning) meeting\n  31. Preliminary Bill Of\n  32. Material\n  33. Impact\n  34. @ Cost\n  35. @ Quality\n  36. & Timing\n  37. 1.4\n  38. Preliminary Process\n  39. Next Steps\n  40. Flow Chart\n  41. # Next Step\n  42. Description\n  43. Responsible User\n  44. Due Date\n  45. Status.\n  46. 1.5\n  47. Preliminary List of\n  48. 1\n  49. LOP\n  50. Norman Hemmings\n  51. 30 Apr 2021\n  52. Special Product  &\n  53. = - =\n  54. Process\n  55. JS by admin 2 2/7/2020 2.29.22 om\n  56. PMS by admin 2 2/7/2020 2:28:33 PM (Program/Project Manager)\n  57. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PRG\n  58. ——\n  59. — | IL a\n\nTotal steps identified: 59",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Project Dashboard\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 33",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 33,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 33,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 33):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 33,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. Project Dashboard\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. [<P | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 33,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Project/Phase Progress Dashboards\nIn the MENU, Click on the Dashboard to access all the Dashboards related to the Project.\nPhase wise/Overall Project Dashboards are available wherein the Progress of an individual Phase with all the\nstatuses can be tracked.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 34",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 34,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 34:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 34,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 34,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 34):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 34,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 34:\nLote. 1 a\nated\n“In Prog\nNew -4 66\nmpleted @ In Progress @ Late @ New\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 34,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8367830514907837,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. Project/Phase Progress Dashboards\n  2. CQ\n  3. rgbsi\n  4. empower QLM\n  5. 7” le ee eee\n  6. In the MENU, Click on the Dashboard to access all the Dashboards related to the Project.\n  7. Phase wise/Overall Project Dashboards are available wherein the Progress of an individual Phase with all the\n  8. statuses can be tracked.\n  9. Program\n  10. Current Phase: Plan and Define Program\n  11. Summary\n  12. Name:\n  13. Program-\n  14. Program ID\n  15. 78567\n  16. Plan and Define Program Analysis Chart\n  17. Program Name\n  18. Customer\n  19. Task Dashboard\n  20. Phase Progress Dashboard\n  21. Phase 1\n  22. Complet\n  23. Program\n  24. Basic Info\n  25. Plan and\n  26. tDue -1\n  27. Warning\n  28. In Progr\n  29. Remaining:\n  30. Manager\n  31. Dashboard\n  32. Define\n  33. Late -1\n  34. 16%\n  35. \\\n  36. Program\n  37. Target Dates\n  38. Phase 2\n  39. Upcoming Key Ac\n  40. Members\n  41. Product \n  42. eted:\n  43. Plan and Define Progr\n  44. Tasks\n  45. Design and\n  46. Development\n  47. Product  Design and D\n  48. Timeline\n  49. Phase 3:\n  50. ; — In Pee\n  51. Issues\n  52. Process\n  53. La\n  54. Process Design and D\n  55. @ Completed @ In Progress @ Late @ New\n  56. Documents\n  57. Design and\n  58. @ Past Due\n  59. Warning\n  60. Product  & Process Va\n  61. Development\n  62. Phase 4:\n  63. Tasks By Responsibility\n  64. Product  &\n  65. Process\n  66. Validation\n  67. Key Risks\n  68. Product  Design\n  69. 2.01- ¢,\n  70. eee\n  71. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  72. [<P i 4.\n\nTotal steps identified: 72",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 34,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Tracking Key Tasks\nUpcoming Key Task/Activities can be tracked from the Dashboard itself.\nUsers can also directly navigate to that Key Task by clicking on the Upcoming\nKey Activities.\nIf there are any Risks associated with a Key Task i.e. If any Risk/Warning\nFlags have been raised for a Key task, those risks can also be viewed from\nthis Dashboard.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 35",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 35,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 35:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 35,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 35,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 35):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 35,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 35:\n—\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 35,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8822096586227417,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. CQ\n  2. rQbsi\n  3. Tracking Key Tasks\n  4. 7 Ee ee eee\n  5. empower QLM\n  6. Summary\n  7. Program ID\n  8. Program-2018-017\n  9. Program Name\n  10. Program-2018-017\n  11. Customer\n  12. Customer 1\n  13. Program Manager\n  14. Norman Hemmings\n  15. Part Image\n  16. Upcoming Key Task/Activities can be tracked from the Dashboard itself.\n  17. wl\n  18. Users can also directly navigate to that Key Task by clicking on the Upcoming\n  19. *\n  20. Key Activities.\n  21. lf there are any Risks associated with a Key Task i.e. If any Risk/Warning\n  22. Upcoming Key Activities\n  23. Flags have been raised for a Key task, those risks can also be viewed from\n  24. this Dashboard.\n  25. Product  Design & Development 3.3\n  26. Key Risks\n  27. Plan & Define\n  28. 14- 7\n  29. Program\n  30. Product  Design &\n  31. 3.2 - )()\n  32. Development\n  33. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  34. | <d@ie | 4\n\nTotal steps identified: 34",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 35,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning) Listing Pages\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 36",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 36,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 36,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 36):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 36,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. rQbsi\n  2. empower QLM\n  3. APQP (Advanced Product  Quality Planning) Listing Pages\n  4. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  5. | <@ie | 4\n\nTotal steps identified: 5",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 36,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning) Listing Pages\nIn the APQP (Advanced Product  Quality Planning) Listing Page, there are following accordions\n1. My Task – It shows the list of activities that are assigned to logged-in user.\n2. My Flag – It shows the list of activities where logged-in user has raised flag.\n3. My Flag Action - It shows the list of all the Flag action raised for which the logged-in user is responsible user.\n4. My Issue - It shows the list of all the Issues for which the logged-in user is responsible to resolve.\n5. All APQP (Advanced Product  Quality Planning) – It shows the list of all the APQP (Advanced Product  Quality Planning) projects that are assigned to the supplier.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 37",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 37,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 37:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 37,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 37:\nPart Image Part Nu... ¥ | Related PartNum... Y¥ Commodity N... | Program N... Y¥ | Program Man... ‘Y¥ | Program St.\nAPQP (Advanced Product  Quality Planning)-\nQ APQP (Advanced Product  Quality Planning)-72195326- . .\nAction ~ 72195326- 72195326-E FORD Ford BU (Business Unit) Connector c t Yazaki  Admin | Open |\nonnector\n2022-00012\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 37,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.7668538093566895,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 37,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 37):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 37,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (from image 2 on page 37):\nMy Task\n\nMy Flag >\nMy Flag Action >\nMy Issue >\nAll APQP (Advanced Product  Quality Planning) v\nMy APQP (Advanced Product  Quality Planning) v\n\nAPQP (Advanced Product  Quality Planning)-\nAPQP (Advanced Product  Quality Planning)-72195326-\n72195326- 72195326-E FORD Ford BU (Business Unit) Connector Pay Yazaki  Admin | Open |\nConnector\n\n2022-00012\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 37,
+      "type": "table",
+      "image_index": 2,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. CQ\n  2. rgbsi\n  3. APQP (Advanced Product  Quality Planning) Listing Pages\n  4. empower QLM\n  5. 7 i | a\n  6. In the APQP (Advanced Product  Quality Planning) Listing Page, there are following accordions\n  7. 1\n  8. My Task — It shows the list of activities that are assigned to logged-in user.\n  9. 2\n  10. My Flag — It shows the list of activities where logged-in user has raised flag.\n  11. My Flag Action - It shows the list of all the Flag action raised for which the logged-in user is responsible user.\n  12. My Issue - It shows the list of all the Issues for which the logged-in user is responsible to resolve.\n  13. All APQP (Advanced Product  Quality Planning) — It shows the list of all the APQP (Advanced Product  Quality Planning) projects that are assigned to the supplier.\n  14. My Task\n  15. My Flag\n  16. My Flag Action\n  17. My Issue\n  18. All APQP (Advanced Product  Quality Planning)\n  19. My APQP (Advanced Product  Quality Planning)\n  20. re\n  21. =\n  22. =\n  23. Progra...\n  24. Y | Part image | Part Nu...\n  25. y\n  26. Related Part Num\n  27. Y¥ | Custo\n  28. Y¥ | Business\n  29. ¥ | Commodity N...\n  30. vy\n  31. Program N...\n  32. ¥ | Program Man\n  33. Y | Program St.\n  34. APQP (Advanced Product  Quality Planning)-\n  35. 72195326-\n  36. 72195326-E\n  37. FORD\n  38. Ford BU (Business Unit)\n  39. Connector\n  40. APQP (Advanced Product  Quality Planning)-72195326-\n  41. Yazaki  Admin\n  42. Connector\n  43. 2022-00012\n  44. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  45. | <iP | 4.\n\nTotal steps identified: 45",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 37,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning)- My Tasks Listing Page\n• On clicking My Task Accordion, the user can see all the tasks that are assigned to the user.\n• The User can select the Status to Open to view the list of tasks that are yet to be completed.\n• On Selecting the Status to Closed, the user can view the list of all tasks that are completed.\n• For the Open Tasks, user can click on action button to update the Task progress, Raise flag and Request date change\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 38",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 38,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 38:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 38,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 38,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 38):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 38,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 38:\nNa... YY SequenceNu... = YF Proje... oY ProjectN... Yo Ph... YF CommodityN.. Yo Due... Yo Prio.. YF ProjectSt.. Y %Comple.. ¥\nThe\nproduct\ndevelopm\nent status\nmeets the\nstipulatio\nns laid\ndown in\nthe\ntequireme Release of\nAPQP (Advanced Product  Quality Planning)-Demo\nnts APQP (Advanced Product  Quality Planning)-Demo Part technical ;\nActon O12 Part 17- RB 09 Jul 2022 Open 0% Approaching\nspecificati 17-Demo Part 17 specificati\n2022-00024\n@® View Actrvity\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 38,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6934592127799988,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. APQP (Advanced Product  Quality Planning)-\n  2. CQ\n  3. rQbsi\n  4. Listing Page\n  5. 7” le ee eee\n  6. empower QLM\n  7. On clicking My Task Accordion, the user can see all the tasks that are assigned to the user.\n  8. The User can select the Status to Open to view the list of tasks that are yet to be completed\n  9. On Selecting the Status to Closed, the user can view the list of all tasks that are completed\n  10. For the Open Tasks, user can click on action button to update the Task progress, Raise flag and Request date change\n  11. My Task\n  12. Task Status\n  13. ® Open\n  14. O Closed\n  15. Upcoming\n  16. Past Due\n  17. All\n  18. Project Status\n  19. Jone | New |\n  20. Next 30 days\n  21. Na\n  22. Y\n  23. Sequence Nu\n  24. Y | Proje\n  25. s\n  26. Y\n  27. Project N\n  28. =\n  29. y\n  30. Ph\n  31. =\n  32. Y\n  33. Commodity N\n  34. =s\n  35. Yy\n  36. Due\n  37. Y  Prio\n  38. =\n  39. Y\n  40. Project St.\n  41. =\n  42. Y\n  43. Y | % Comple.\n  44. The\n  45. product\n  46. developm\n  47. ent status\n  48. meets the\n  49. stipulatio\n  50. ns laid\n  51. down in\n  52. the\n  53. requireme\n  54. Release of\n  55. nts\n  56. APQP (Advanced Product  Quality Planning)-Demo\n  57. APQP (Advanced Product  Quality Planning)-Demo Part\n  58. technical\n  59. MD specificat\n  60. cificati\n  61. 01.2\n  62. Part 17:\n  63. 17-Demo Part 17\n  64. specificati\n  65. B\n  66. 09 Jul 2022\n  67. Open\n  68. 0%\n  69. Approaching\n  70. ©\n  71. J\n  72. 2022-00024\n  73. ons\n  74. pw Flag Risk\n  75. ® View Activity\n  76. > Add Actuals\n  77. *> View Project\n  78. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  79. [<P i 4.\n\nTotal steps identified: 79",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 38,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning)- My Flag Listing Page\n• On clicking My Flag Accordion, the user can see all the tasks that are logged-in user has raised.\n• The User can select the Status to Open to view the list of flagged tasks that are yet to be resolved.\n• On Selecting the Status to Closed, the user can view the list of all flagged tasks that are resolved.\n• For the Open Tasks, user can click on action button to update the Next Steps, View Activity.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 39",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 39,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 39:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 39,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 39,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 39):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 39,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 39:\nFlag Task = ¥ Seq®# —-Y Project# == ProjectNa... Y Phase YY DueDate YF Priority Y ProjectSta.. Y %Complet.. ¥\nThe\nfunctionality\nof the\nroduct\ni adh APQP (Advanced Product  Quality Planning)-Demo asp nemo part Release ot\n_ in -Demo Pai\nj= neers 3 Part 17-2022- technical 28 Jul 2022 Open 0% ise |\ninnovations) ooo 17-Demo Part 17 Tat\nspecifications\n\nhas been °\n\n. demonstrate\n\nP Nese: dy the\n\n@ vrow Acteaty supplier.\n\nPage + of 100) flees per nage Showing 1 1 from 1 Flags\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 39,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9658260941505432,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. APQP (Advanced Product  Quality Planning)-\n  2. CQ\n  3. rgbsi\n  4. Listing Page\n  5. 7 le ee eee\n  6. empower QLM\n  7. e\n  8. On clicking My Flag Accordion, the user can see all the tasks that are logged-in user has raised.\n  9. e\n  10. The User can select the Status to Open to view the list of flagged tasks that are yet to be resolved.\n  11. e\n  12. On Selecting the Status to Closed, the user can view the list of all flagged tasks that are resolved.\n  13. e\n  14. For the Open Tasks, user can click on action button to update the Next Steps, View Activity.\n  15. My Flag\n  16. Flag Status © Open © Closed\n  17. Task\n  18. Phase\n  19. Flag\n  20. Y | Seq#\n  21. Project #\n  22. ¥ | Project Na...\n  23. y\n  24. ¥ | Due Date\n  25. Y\n  26. Priority\n  27. Y | Project Sta...\n  28. Y | % Complet...\n  29. Y\n  30. The\n  31. functionality\n  32. of the\n  33. product\n  34. (including\n  35. APQP (Advanced Product  Quality Planning)-Demo\n  36. APQP (Advanced Product  Quality Planning)-Demo Part\n  37. Release of\n  38. 03.1\n  39. Part 17-2022-\n  40. technical\n  41. 28 Jul 2022\n  42. Open\n  43. 0%\n  44. =\n  45. ae\n  46. is\n  47. innovations)\n  48. 00024\n  49. 17-Demo Part 17\n  50. has been\n  51. specifications\n  52. demonstrate\n  53. @# Next Steps\n  54. d by the\n  55. ® View Activity\n  56. supplier.\n  57. é\n  58. Page of\n  59. Showing 1-1 from 1 Flags\n  60. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  61. [<i | 4.\n\nTotal steps identified: 61",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 39,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product  Quality Planning) – My Flag Action Listing Page\n• On clicking My Flag Action Accordion, the user can see all the flag actions raised for which the logged-in user is responsible to\nresolve.\n• The User can filter the actions by clicking on the Status and can select the following options.\n• Open - shows the list of all flag action steps that are to be completed.\n• In Progress- shows the list of all flag action steps that are In progress status.\n• Closed – shows the list of all flag actions that are completed.\n• The User can update the action status by clicking on change and by selecting the status as in Progress, Complete or Cancelled\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 40",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 40,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 40:\n |  |  |  | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 40,
+      "type": "table",
+      "table_index": 0,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE on page 40:\n | ",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 40,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 40,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 40):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 40,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 40:\nJextS... 7 : y Ph. 7 Task 7 Follow.. y CreationD.. y Oued... y Suppl. y SupplierU.. y Status 7\niJ\nbe Prete Enquiry “epare\nDesign\nop2 coset and p f 31 Mar 2021 29 Apr 2021 AMO\np fag tae q Onnge ©\n. 2020-0044 Concept pose = i pe Products [o>] .\nConcept:\nPhase\n2\niJ\nEnquiry “epare\nDesign\nop 1 Paint to be apap: and p I 31. Mar 2021 30Ap: 2021 AUP Jason T.\ne Fag Yeo 1 Taylor Qunge ©\ndiscussed 2020-0044 Concept oposay “ ° pr Products jason Tayla Lo *\nConcept:\nPhase 5\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 40,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9633836150169373,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. APQP (Advanced Product  Quality Planning) -\n  2. CQ\n  3. rgvosi\n  4. »n Listing Page\n  5. 7 i ee a\n  6. empower QLM\n  7. On clicking My Flag Action Accordion, the user can see all the flag actions raised for which the logged-in user is responsible to\n  8. resolve.\n  9. The User can filter the actions by clicking on the Status and can select the following options.\n  10. Open - shows the list of all flag action steps that are to be completed.\n  11. In Progress- shows the list of all flag action steps that are In progress status.\n  12. Closed — shows the list of all flag actions that are completed.\n  13. The User can update the action status by clicking on change and by selecting the status as in Progress, Complete or Cancelled\n  14. My Flag Action\n  15. Excel Export\n  16. Status Open v |\n  17. Select All\n  18. Next S...\n  19. Y\n  20. Ph...\n  21. Y\n  22. Task yy\n  23. Follow...\n  24. y | Creation D...\n  25. y | Due D...\n  26. Y | Suppl...\n  27. y | Supplier  U...\n  28. y | Status\n  29. y\n  30. Open\n  31. Prepare\n  32. In Progress\n  33. Enquiry\n  34. Closed\n  35. and\n  36. Design\n  37. Auto\n  38. LOP 2\n  39. UZ0-U00\n  40. Proposal\n  41. Flag Yellow\n  42. 31 Mar 2021\n  43. 29 Apr 2021\n  44. Products\n  45. Concept\n  46. Concept-\n  47. Phase\n  48. In Progress\n  49. Enquiry\n  50. Prepare\n  51. Complete\n  52. Point to be\n  53. APQP (Advanced Product  Quality Planning)-\n  54. and\n  55. Design\n  56. Auto\n  57. Cancelled\n  58. LOP 1\n  59. Proposal\n  60. Flag Yellow\n  61. 31 Mar 2021\n  62. 30 Apr 2021\n  63. Jason Taylor\n  64. discussed\n  65. 2020-0044\n  66. Concept\n  67. Products\n  68. Phase\n  69. Concept-\n  70. |\n  71. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  72. ©\n  73. [<P i 4.\n\nTotal steps identified: 73",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 40,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Thank you\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 41",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 41,
+      "type": "text",
+      "extraction_method": "pdfplumber",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. robsi\n\nTotal steps identified: 1",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 41,
+      "type": "flowchart",
+      "image_index": 0,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "IMAGE_TEXT (from image 1 on page 41):\nCR\n\nempower QLM\n",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 41,
+      "type": "image_text",
+      "image_index": 1,
+      "extraction_method": "ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "FLOWCHART / PROCESS DIAGRAM:\n\nProcess Steps:\n  1. empower QLM\n  2. Thank you\n  3. © RGBSI COPYRIGHT 2021- CONFIDENTIAL AND PROPRIETARY\n  4. [<P | 4\n\nTotal steps identified: 4",
+    "metadata": {
+      "source": "APQP - Quick Access User Guide for Suppliers",
+      "page": 41,
+      "type": "flowchart",
+      "image_index": null,
+      "extraction_method": "flowchart_ocr",
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  }
+]

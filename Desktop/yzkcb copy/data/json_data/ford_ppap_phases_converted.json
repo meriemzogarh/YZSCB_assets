@@ -1,0 +1,13 @@
+[
+  {
+    "page_content": "{\n  \"page_content\": {\n    \"Ford_Phased_PPAP\": {\n      \"Description\": \"Ford's phased Production Part Approval Process (PPAP) is divided into four phases, each verifying a specific aspect of production readiness.\",\n      \"Phases\": [\n        {\n          \"Phase\": 0,\n          \"Name\": \"Run-at-Rate\",\n          \"Purpose\": \"Confirms the process can consistently produce a quality product at the required rate.\",\n          \"Details\": [\n            \"Sometimes called the 'pre-production run'.\",\n            \"Aims to identify issues before starting full-scale production.\"\n          ]\n        },\n        {\n          \"Phase\": 1,\n          \"Name\": \"Quality Verification\",\n          \"Purpose\": \"Verifies the process capability to produce a quality product.\",\n          \"Details\": [\n            \"Process must be in its final intended state (off-tool, off-process).\",\n            \"Ensures ongoing ability to meet quality standards.\"\n          ]\n        },\n        {\n          \"Phase\": 2,\n          \"Name\": \"Production Verification\",\n          \"Purpose\": \"Verifies the process can consistently meet Ford’s requirements during a real production run.\",\n          \"Details\": [\n            \"Production run should represent normal operations.\",\n            \"Typically involves at least 300 consecutive parts unless otherwise agreed.\"\n          ]\n        },\n        {\n          \"Phase\": 3,\n          \"Name\": \"Capacity Verification\",\n          \"Purpose\": \"Verifies the supplier’s ability to meet Ford’s full production volume requirements.\",\n          \"Details\": [\n            \"Confirms capability for sustained, high-volume output.\"\n          ]\n        }\n      ]\n    }\n  },\n  \"metadata\": {\n    \"filename\": \"fors phases PPAP\",\n    \"source\": \"data/pdf_backup/fors phases PPAP.json\",\n    \"type\": \"structured_text\",\n    \"description\": \"Structured summary of Ford’s phased PPAP process divided into four verification phases.\",\n    \"created_by\": \"Automated Script\",\n    \"format_version\": \"1.0\"\n  }\n}",
+    "metadata": {
+      "filename": "ford phases PPAP",
+      "source": "data/pdf_backup/ford phases PPAP.json",
+      "type": "structured_text",
+      "description": "Structured summary of Ford’s phased PPAP process divided into four verification phases.",
+      "created_by": "Automated Script",
+      "format_version": "1.0"
+    }
+  }
+]

@@ -1,0 +1,1447 @@
+[
+  {
+    "page_content": "[TABLE 1 from Page 1]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 1,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 1]\n\n | Print Date: 15/MAY/2023 Page 1 of 24\n---------------------------------------\n | Print Date: 15/MAY/2023 Page 1 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 1,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nForeword\nYAZAKI  has always considered customer satisfaction as one of the top priorities.\nCompetition in national and international markets has intensified significantly in recent\nyears. Growing customer expectations in terms of quality and flexibility mean that our\ncompany and the entire supply chain face increasingly demanding challenges.\nTraditional logistics operations have transformed into an integrated, customer-focused\nmanagement function, that increasingly constitutes a strategic success factor in our\ncompany's competitiveness. YAZAKI  Plants depend on cooperation with reliable, expert,\nand customer-focused suppliers.\nTo achieve this challenging objective, the quality of our products and services must be part\nof the main considerations when designing new technical solutions.\nDelivering high quality product cannot be achieved without packaging providing proper\nprotection.\nPackaging material is a critical part of the YAZAKI  product and service package offered to\nour customers.\nOur Suppliers are considered as key partners to succeed in achieving the challenging\ncustomer’s objectives.\nIn this direction, the needs for packaging standard requirements have been growing at the\nsame time as YAZAKI  Europe Limited’s growing success.\nThis document is the result of a long study on how to further optimize product packaging with\nas purpose to bring values to our business partners: Customers and Suppliers.\nThis packaging requirements manual is one of the key stones of future YAZAKI  and its\nbusiness partner’s success.\nWe rely on the support of every party in the application of these requirements.\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 1 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 1,
+      "type": "text",
+      "chunk_size": 2012,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 2]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 2,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 2]\n\n | Print Date: 15/MAY/2023 Page 2 of 24\n---------------------------------------\n | Print Date: 15/MAY/2023 Page 2 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 2,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nTable of Contents\n1. Purpose ............................................................................................................................ 4\n2. Scope ................................................................................................................................ 4\n3. Terms & Definitions ......................................................................................................... 5\n4. Process Details ................................................................................................................ 6\n4.1 Responsibilities ................................................................................................... 6\n4.1.1 YAZAKI  Responsibilities ............................................................................ 6\n4.1.2 Suppliers Responsibilities.......................................................................... 6\n4.2 Packaging/Standard Packaging Size .................................................................. 7\n4.2.1 Handling Unit Requirements ...................................................................... 7\n4.2.2 Packaging Design & Dimensions ............................................................. 8\n4.2.3 Ergonomic Requirements & Container Utilization .................................... 9\n4.2.4 Expendable (One-way, apply to carton/container box) Packaging .............................................................................. 9\n4.2.5 Returnable Packaging ............................................................................... 9\n4.2.6 Inner Packaging ...................................................................................... 10\n4.2.7 Transport Packaging Design & Dimensions ............................................ 10\n4.2.8 Palletization ............................................................................................. 11\n4.2.9 Stacking................................................................................................... 11\n4.2.10 Security in Goods Transportation .......................................................... 12\n4.3 Packaging Verification ...................................................................................... 13\n4.4 Labelling ........................................................................................................... 14\n4.4.1 General Requirements ............................................................................ 14\n4.4.2 Barcode / Data Identifier Requirements ................................................. 14\n4.4.3 Handling Unit Label ................................................................................ 15\n4.4.4 Pallet Unit Label ...................................................................................... 15\n4.5 Serial Number Specification .............................................................................. 16\n4.6 EDI (Electronic Data Interchange) .................................................................................................................... 17\n4.6.1 Advanced Shipping Notice (ASN (Advanced Shipping Notification)) ............................................................ 18\n4.7 Transport .......................................................................................................... 18\n4.7.1 Transports Processed by Supplier  .................................................................. 18\n4.7.2 Transports Processed by YAZAKI  ................................................................. 18\n4.7.3 Cross Dock Operations ..................................................................................... 18\n4.7.4 Premium Freights .............................................................................................. 19\n4.8 Terms of Delivery .............................................................................................. 19\n4.8.1 Transport /Customs Documents ..................................................................... 19\n4.8.2 Invoicing .............................................................................................................. 20\n4.9 Cost of Non-Compliance ................................................................................... 20\n4.10 Logistics Quality .............................................................................................. 21\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 2 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 2,
+      "type": "text",
+      "chunk_size": 4648,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 3]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 3,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 3]\n\n | Print Date: 15/MAY/2023 Page 3 of 24\n---------------------------------------\n | Print Date: 15/MAY/2023 Page 3 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 3,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\n5. References & Related Documents ............................................................................... 23\n6. Document Approval ....................................................................................................... 23\n7.Document History ........................................................................................................... 24\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 3 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 3,
+      "type": "text",
+      "chunk_size": 773,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 4]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 4,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 4]\n\n | Print Date: 15/MAY/2023 Page 4 of 24\n---------------------------------------\n | Print Date: 15/MAY/2023 Page 4 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 4,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\n1. PURPOSE:\nThe purpose of this specification is to outline the minimum requirements for packaging\n&transportation systems.\nThis specification has the following objectives:\n▪ To protect the components against damage in transit, handling and storage until the\npoint of use;\n▪ Reduce Quality issues and related Logistic costs;\n▪ Avoid relabeling\n▪ Optimized cube utilization for the handling unit, the loading unit as well as the transport\nmedium.\n▪ To respect ergonomic and safety constraints\nSuppliers must use packaging that withstands the various dynamics of all transportation\nmethods as land, air and sea transport.\n2. SCOPE:\nThis Supplier  guideline applies to all Suppliers and YAZAKI  manufacturing plants shipping\ncomponents and raw material to one of the YAZAKI  EUROPE Limited manufacturing plants\nand distribution centers in the EMEA (Europe Middle East Africa) region.\nAll YAZAKI  EUROPE limited manufacturing plants and distribution centers are entitled to\napply these regulations stated in Supplier  Logistics Manual.\nFor deliveries of YAZAKI  ComBU (Components Business Unit) designed components please consider the additional\nComponent Packaging Specification [EA-QM-CO-S-027].\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 4 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 4,
+      "type": "text",
+      "chunk_size": 1531,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 5]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 5,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 5]\n\n | Print Date: 15/MAY/2023 Page 5 of 24\n---------------------------------------\n | Print Date: 15/MAY/2023 Page 5 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 5,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\n3. TERMS & DEFINITIONS:\nAPQP (Advanced Product  Quality Planning) Advanced Product  Quality Planning process\nASN (Advanced Shipping Notification) Advanced Shipping Notification\nBCT (Box Compression Test) Box Compression Test\nComBU (Components Business Unit) Components Business Unit\nCMR (Convention Marchandise Routier) Convention Marchandise Routier\nECT (Edge Crush Test) Edge Crush Test\nEDI (Electronic Data Interchange) Electronic Data Interchange\nETA (Estimated Time of Arrival) Estimated Time of Arrival\nEMEA (Europe Middle East Africa) Europe Middle East Africa\nExpendable (One-way, apply to carton/container box) One-way, apply to carton/container box\nGPDB (Global Price Database) Global Price Database\nHSC (Half Slotted Container (e.g. FEFCO 0312)) Half Slotted Container (e.g. FEFCO 0312)\nIPPC (International Plant Protection Convention) International Plant Protection Convention\nISPM 15 (International Standards for Phytosanitary Measures No. 15) International Standards for Phytosanitary Measures No. 15\nISO (International Organization for Standardization) International Organization for Standardization\nOEM (Original Equipment Manufacturer) Original Equipment Manufacturer\nPPAP (Production Part Approval Process) Production Part Approval Process\nPOA (Proof of Authorization) Proof of Authorization\nREACH (Registration, Evaluation, Authorization and Restriction of Chemicals) Registration, Evaluation, Authorization and Restriction of Chemicals\nRegulation\nRFQ (Request for Quotation) Request for Quotation\nRSC (Regular Slotted Container (e.g. FEFCO 0201)) Regular Slotted Container (e.g. FEFCO 0201)\nSM (Supply Management) YAZAKI  Supply Management\nSLC (Small Load Carrier) Small Load Carrier\nSPS (Standard Packing Size) Standard Packing Size\nSupplier  Product  Manufacturer\nVCI (Volatile Corrosion Inhibitor) Volatile Corrosion Inhibitor\nVDA (Verband der Automobilindustrie (German Automotive Association)) Verband der Automobilindustrie (German Automotive Association)\nWMS (Warehouse Management System) Warehouse Management System\nWH (Wire Harness) Wire Harness\nX-dock (Cross Dock) Cross Dock\nYEL (YAZAKI Europe Limited) YAZAKI  Europe Limited\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 5 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 5,
+      "type": "text",
+      "chunk_size": 1554,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 6]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 6,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 6]\n\n | Print Date: 15/MAY/2023 Page 6 of 24\n---------------------------------------\n | Print Date: 15/MAY/2023 Page 6 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 6,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\n4. PROCESS DETAILS:\n4.1 Reponsibilities\n4.1.1 YAZAKI  Responsibilities\n▪ Assist the Supplier  with its packaging proposal\n▪ Approve the Suppliers packaging proposal\n▪ Organize or support supplier during transport operations in regards to agreed\nincoterms.\n▪ Use the Transport Order Tool to book the adequate transportation mode.\n▪ Check documentations ( Manifest , Invoices , POA (Proof of Authorization) , Delivery notes , Customs\ndocumentations.. ) right after the departure of the truck and before reaching\nCustoms point check.\n▪ Define / refine the theoretical receiving window and share it with WH (Wire Harness) Team.\n▪ Track deliveries from supplier according to agreed ETA (Estimated Time of Arrival) and if needed activate\ncontingency plan.\n▪ Validate invoices and payment on time to suppliers\n4.1.2 Supplier  Reponsibilities\n▪ Comply with the YAZAKI  packaging specification and customer (OEM (Original Equipment Manufacturer)) specific\nrequirements\n▪ Design & test the packaging (internal dunnage, dimensions, loading unit) based on\nthese requirements\n▪ Submit all required packaging documentation in GPDB (Global Price Database) Capacity Confirmation and\nwritten form (packaging data sheet)\n▪ Ensure availability of sufficient quantity of packaging as well as a contingency plan in\norder to ensure a continuous supply.\n▪ Review packaging for compliance and resubmit for approval in case of quality issues,\npart changes that affect the packaging or changes in the packaging specification.\n▪ Comply with environmental legal requirements: Packaging directive 94/62/EC,\nREACH (Registration, Evaluation, Authorization and Restriction of Chemicals) regulation (EC) Nº 1907/2006 and also with local requirements.\n▪ Supplier  is responsible for the quality of their products and obedience of\nrequirements stated in the Yazaki (Yazaki EMEA) Supplier  Logistics Manual.\n▪ Organize or support YAZAKI  during transport operations in regards to the agreed\nincoterms.\n▪ Inform X-dock (Cross Dock) carrier for the needed information of deliveries to YAZAKI  entities.\n▪ Follow the Transport Order Tool for direct deliveries to prepare deliveries according\nto mentioned details by YAZAKI  entity.\n▪ Provide documentations ( Manifest , Invoices , POA (Proof of Authorization) , Delivery notes , Customs\ndocumentations.. ) right after the departure of the truck and before reaching\nCustoms point check.\n▪ Comply with all applicable Environment, Health and Safety legal requirements\nrelated directly and / or indirectly to their activity / service provided to YAZAKI . The\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 6 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 6,
+      "type": "text",
+      "chunk_size": 2705,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 7]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 7,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 7]\n\n | Print Date: 15/MAY/2023 Page 7 of 24\n---------------------------------------\n | Print Date: 15/MAY/2023 Page 7 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 7,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nsame applies in relation to YAZAKI  internal specific EHS (Environmental Health and Safety) protocols that may apply to\nthe type of service to be provided.\n▪ Maintain an Internal EHS (Environmental Health and Safety) Management system and commit with adopting EHS (Environmental Health and Safety) best\npractices in order to promote Health and Safety and the mitigation of Environmental\nImpacts, including but not limited to:\n➢ CO2 emissions reduction footprint\n➢ Promotion of Waste Recycling and Circular economy\n➢ Promotion of Air emissions reduction\n➢ Elimination of Safety hazards and work accidents\n▪ Cooperate with potential future Environment, Health & Safety surveys to evaluate the\nSupplier ’s performance and identify potential opportunities for continuous\nimprovement on these areas.\n▪ Ensure the products are safely loaded and the packages secured for transport,\naccording to packing rules.\n▪ Ensure that one pallet contains goods for only one plant.\n4.2 Packaging/Standard Packaging Size\nStandard packaging size is packing per item number according to an agreed and fixed\nquantity.\n4.2.1 Handling Unit Requirements\nHandling unit is the packaging / container in which the individual products (e.g. bags of\nconnectors, reels of terminals, grommets, etc.) are packed per item number.\nIt is not allowed to mix different part numbers in a handling unit. Different modification\n/different revision levels of products also may not be combined in a handling unit.\nPackages must be easily handled during opening and closing and for repacking operations.\nAll handling units must enable stacking, be rigid with no excessive flexing, bowing, buckling\nor distortion. They must provide adequate protection to ensure that goods reach end user in\nperfect condition. Depending on the shipping conditions and components material e.g. for\nsea-freight conditions, environmental effects could require additional packaging material as\ndesiccant bags, VCI (Volatile Corrosion Inhibitor) paper and corrosion protection.\nQuality & packaging systems for all component families listed below as well as any other\ncomponents that may not be listed:\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 7 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 7,
+      "type": "text",
+      "chunk_size": 2396,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 8]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 8,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 8]\n\nStandard parts | Non-Standard parts\n-----------------------------------\nTape / Foam | Wire Spools /drums\nClips / Fasteners | Terminal reels\nNuts / Bolts / Screws | Convolute Tubing\nConnectors | Extended Length Plastic Shields/Troughs",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 8,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 3 from Page 8]\n\n | Print Date: 15/MAY/2023 Page 8 of 24\n---------------------------------------\n | Print Date: 15/MAY/2023 Page 8 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 8,
+      "type": "table",
+      "table_index": 2,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nStandard parts Non-Standard parts\nTape / Foam Wire Spools /drums\nClips / Fasteners Terminal reels\nNuts / Bolts / Screws Convolute Tubing\nConnectors Extended Length Plastic Shields/Troughs\nStandard parts are hereby defined as parts which are small and / or uniform in configuration\nwhich will fit into a pre-determined set of hand-held / human movable boxes.\nNon-Standard parts are hereby defined as parts which require their own packaging system\nand / or SLC (Small Load Carrier) and pallet dimensions due to part configurations/sizes in order to ensure\npackage and part integrity.\nThe minimum requirements within these guidelines shall be met by all Component Suppliers\nshipping Standard & Non-Standard parts to YAZAKI .\nThese requirements will help YAZAKI  and its Suppliers to achieve a high level of Quality\nperformance in regard to automotive standards, environmental legal and local requirements\nand OEM (Original Equipment Manufacturer) specific needs.\nTherefore, it is ultimately the Suppliers responsibility to ensure that their parts arrive at the\nend user undamaged.\nSuppliers must use packaging that withstands the various dynamics of all transportation\nmethods as land, air and sea transport.\nOnly one-part number is permitted to be shipped inside each box. Multiple part numbers\ninside one box is not permitted.\n4.2.2 Packaging Design & Dimensions\nIn order to enable a maximum fill rate of the pallet and the pallet footprint the container shall\nbe modular. The preferred container dimension for the 1.200mm x 800mm footprint can be\nfound in the following attachment: EA-SC (Significant/Special Characteristic)-xx-M-001-A-01.\nThe corrugated material must have minimum 44 ECT (Edge Crush Test) to provide a sufficient strength in order\nto maintain part quality.\nMinimum BCT (Box Compression Test) requirement is explained in section 4.2.9.\nThe flute direction shall be vertical to optimize the compression strength.\nAll carton boxes shall be adequately sealed with packaging tape. Staples as well as asphalt\nsealing tapes are not allowed. Hand holes should not be used, unless specified by YAZAKI .\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 8 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 8,
+      "type": "text",
+      "chunk_size": 2374,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 9]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 9,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 9]\n\n | Print Date: 15/MAY/2023 Page 9 of 24\n---------------------------------------\n | Print Date: 15/MAY/2023 Page 9 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 9,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\n4.2.3 Ergonomic Requirements & Container Utilization\nThe weight per manually handled handling unit is limited to 15kg. In case local legal\nrequirements imposes a lower weight limit, the legal requirements must be always respected.\nEach handling unit shall reach a minimum vertical box density of 90% based on the following\nformula:\nHeight of goods in container\nvertical box density (%) =\nHeight of container\n4.2.4 Expendable (One-way, apply to carton/container box) Packaging\nCorrugated box material as well as the used internal dunnage shall be 100% recyclable.\nDuring the design of the box and dunnage the loading, unloading, recycling, and disposal\nshall be considered.\nAll the boxes shall be regular slotted container (RSC (Regular Slotted Container (e.g. FEFCO 0201))) with flaps for closure. Half slotted\ncontainer (HSC (Half Slotted Container (e.g. FEFCO 0312))) shall not be used.\nFigure 1 Authorized carton box types\n4.2.5 Returnable Packaging\nIn case of mutually agreed use of returnable packaging, the ownership as well as the\nresponsibilities for maintenance, repair, cleaning, tracking, etc. shall be determined during\nthe sourcing process. Rental of returnable packaging may also be pursued as an option.\nFor standard parts, the returnable packaging shall conform to the VDA (Verband der Automobilindustrie (German Automotive Association)) or Odette GALIA\npackaging standards.\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 9 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 9,
+      "type": "text",
+      "chunk_size": 1594,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 10]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 10,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 10]\n\n | Print Date: 15/MAY/2023 Page 10 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 10 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 10,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\n4.2.6 Inner Packaging (Packaging for Special Protection)\nThe inner packaging shall be designed to protect the parts in an efficient manner: Quality and\nCost. Components features shall be considered: self-lubricated parts, moving parts,\nfunctional features, appearance, material, ESD Sensitive devices, etc.\nCushioning packaging (airbag, bubble foil/wrap) or foam chips usage shall be avoided as\nmuch as possible.\nTo be able to choose the proper inner packaging method, several parameters shall be taken\ninto account:\n▪ Does the part contain moving features?\n▪ Is there any fragile area on the part?\n▪ Is there a seal or self-lubricated component?\n▪ What kind of material is the part made of?\n▪ Is there any needed orientation of the part in the packaging for future processing?\n4.2.7 Transport Packaging Design & Dimensions\nAll shipments of the Component Suppliers shall be palletized. Deviations (e.g. for slip sheets)\nhave to be mutually agreed.\nThe following minimum design requirements have to be fulfilled:\n▪ Footprint: 1.200mm x 800mm, 48” x 40” (1.219mm x 1.016mm) for US shipments\n▪ Maximum pallet height (empty): 150mm\n▪ Dynamic pallet Load Capacity conform 3m stack and it should be minimum 750kg\n▪ 4-way free entry block pallet with three skids\n▪ Forklift pocket minimum opening height: 88mm\n▪ Solid wood pallet, no press wood pallet\n▪ IPPC (International Plant Protection Convention) treatment & marking according to ISPM 15 (latest version)\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 10 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 10,
+      "type": "text",
+      "chunk_size": 1809,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 11]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 11,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 11]\n\nTransport type | Max. Loading unit Height (mm)\n----------------------------------------------\nStandard truck / High Cube Sea container | 1.275 mm\nMega truck | 965 mm (3 units stacking)\n1.450 mm (2 units stacking)",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 11,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 3 from Page 11]\n\n | Print Date: 15/MAY/2023 Page 11 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 11 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 11,
+      "type": "table",
+      "table_index": 2,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\n4.2.8 Palletization\nThe carton footprints shall completely cube out a full layer\non the pallet with no overhang.\nThe part bearing boxes need to lie on its four corners. If\nthis is not possible, a cardboard layer no larger than the\npallet footprint has to be added.\nThe folding boxes shall be aligned vertically. Brick or\ninterlocking stacking is not allowed.\nFigure 2 Palletization Requirements\n4.2.9 Stacking\nAll pallet loads shall assure a safe stacking and enable optimal transport and storage volume\nutilization. Palletized loading units must, under dynamic circumstances (during transport),\nwithstand a stacking height of three pallet loads of the same footprint and weight or a height\nof 3,00 m, assuring all products to arrive in undamaged condition at the final point of use.\nThe minimum Box Compression Test (BCT (Box Compression Test)) value of the selected corrugated box shall be\ndetermined based on this dynamic transport condition, considering a safety factor of at least\n3.\nThe following table will help to identify the maximum height per loading unit:\nTransport type Max. Loading unit Height (mm)\nStandard truck / High Cube Sea container 1.275 mm\nMega truck 965 mm (3 units stacking)\n1.450 mm (2 units stacking)\nTable 1 Max height per loading unit\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 11 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 11,
+      "type": "text",
+      "chunk_size": 1640,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 12]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 12,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 12]\n\n | Print Date: 15/MAY/2023 Page 12 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 12 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 12,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nThe heaviest palletized load must always be at the lowest level while storing the pallets or\nduring transport.\nThe top layer of the palletized load has to be even. Pyramid stacking as well as the use of\n“Do not stack” labels is not permitted.\nFigure 3 Stacking with flat top\nExceptional use of the “Do not stack” label has to be agreed upon individually and will not\nexempt the Supplier  from damaged product claims.\nFor loading units that exceed 500kg, 2 labels have to be attached on adjacent corners to alert\nthe material handlers about the weight risk. An example can be found below:\nThe above applies unless different is agreed in the PPAP (Production Part Approval Process) product packaging standard or due\nto size and/or configuration of Non-Standard parts.\nWeight of pallet > 500kg\nEnsure that pallet is loaded\nunderneath\n4.2.10 Security in Goods Transportation\nAll loading units must be secured with plastic banding and/or clear plastic stretch wrap. Steel\nbanding, nailing, or gluing is not permitted. In addition, corner boards or edge protectors might\nbe used.\nFor wire spools overlapping on the pallet is not allowed. See Figure 4.\nFigure 4 Overlapping of wire spools\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 12 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 12,
+      "type": "text",
+      "chunk_size": 1545,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 13]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 13,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 13]\n\n | Print Date: 15/MAY/2023 Page 13 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 13 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 13,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nLarge spools (See Figure 5.) which do not take up the full footprint of the pallet must be\nbanded to the pallet in a 4-way pattern.\nFigure 5 Positioning large spools on pallet\nSmaller spools (See Figure 6.) that take up the full footprint of the pallet may also be banded,\nbut should always be stretch wrapped as shown, with “X” pattern on top for the final wrap. All\nfour corners of the pallet should be included in the stretch wrap.\nFigure 6 Positioning small spools on pallet\nWire Fibre Drums (See Figure 7.) shall follow the same requirements for spacing on the pallet\nand banding/stretch wrapping as Wire Spools.\nFigure 7 Positioning wire fibre drums on pallet\n4.3 Packaging Verification\nPackaging specifications are mutually agreed upon between YAZAKI  and the Supplier . All\nloading units and its content must arrive in undamaged condition at the final point of use. In\nthe event of any transportation damages, unless otherwise agreed between YAZAKI  and\nSupplier  in the individual case, the party that has commissioned, and pays, the freight\nforwarder shall be responsible for the securing and handling of any claims for damages\nagainst the freight forwarder.\nIn case the packaging is considered unsuitable or needs to be improved the Supplier  is\nalerted. Supplier , SM (Supply Management), quality, and packaging engineering work together for improving\npackaging.\nVerification shall be done by performing the necessary tests such as drop test (Ref: VDA (Verband der Automobilindustrie (German Automotive Association))\nRecommendation 4535, ISO (International Organization for Standardization) 2206 / ISO (International Organization for Standardization) 2248), BCT (Box Compression Test), and shipment trial. Test results shall be\nverified by YAZAKI .\nBefore the deployment of improved packaging shipment trial is performed in order to confirm\nthe packaging capabilities to protect the parts according to the designated physical flow /\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 13 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 13,
+      "type": "text",
+      "chunk_size": 2131,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 14]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 14,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 14]\n\n | Print Date: 15/MAY/2023 Page 14 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 14 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 14,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nSupply Chain. The shipment trial is part of the packaging validation process. Therefore, this\ntest shall be planned before PPAP (Production Part Approval Process) approval.\n4.4 Labeling\nYAZAKI  is using a material handling system based on SAP. In support of this initiative, all\ncomponents and raw material Suppliers that supply to YAZAKI  or any of its affiliate locations\nare required to attach barcoded labels according to the known European automotive\nstandards (Odette or VDA (Verband der Automobilindustrie (German Automotive Association))), on each pallet unit and handling unit. Label samples are shown\nin attachment EA-SC (Significant/Special Characteristic)-xx-M-001-A-02.\n4.4.1 General Requirements\nAccording to VDA (Verband der Automobilindustrie (German Automotive Association)) 4902/ODETTE V4.1, standards are specified for the automotive industry\nand its Suppliers.\nPackaging is subdivided as follows:\n▪ Handling unit: Small Load Carrier (SLC (Small Load Carrier)), carton, etc.\n▪ Pallet unit: Pallet, pallet cage\nLabels are to be attached to the stated sides of packing units in a visible position. Adhesive\nlabels must be used for carton boxes. Labeling for SLC (Small Load Carrier) is explained in section 4.4.3.\n4.4.2 Barcode / Data Identifier Requirements\nThe permitted barcode type is Code 39 according to ISO (International Organization for Standardization)/IEC 15417. The allocated space of\nthe barcode shall be directly below the human-readable characters. The print quality shall\ncomply with ISO (International Organization for Standardization)/IEC 15416 with a height of 13 mm.\nA sample print shall be provided by the Supplier  to the receiving YAZAKI  plant for testing of\nthe content and quality of the barcode prior to any label change.\nThe barcoded fields shall start with the data identifier and will identify the type of information\nencoded in that symbol. Care must be taken that the barcoded data has the proper data\nidentifier. The data identifier shall be printed in human-readable characters in parentheses\nunder the title for the appropriate data area. The data identifier shall not be included in the\nhuman-readable interpretation of the bar code symbol.\nFields on the label are explained in attachment :EA-SC (Significant/Special Characteristic)-xx-M-001-A-02.\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 14 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 14,
+      "type": "text",
+      "chunk_size": 2317,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 15]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 15,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 15]\n\nData identifier | Data area\n---------------------------\nP | YAZAKI  part number\nQ | Quantity\nV | Supplier  number\nS | Serial number\n2P | Supplier  part no. (optional)",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 15,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 3 from Page 15]\n\n | Print Date: 15/MAY/2023 Page 15 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 15 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 15,
+      "type": "table",
+      "table_index": 2,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nThe data identifiers listed below shall be used on YAZAKI  labels:\nData identifier Data area\nP YAZAKI  part number\nQ Quantity\nV Supplier  number\nS Serial number\n2P Supplier  part no. (optional)\nTable 2 List of Data Identifiers\n4.4.3 Handling Unit Label\nEach handling unit must be labeled with only one barcoded label. It must be always possible\nto scan the handling unit label from the outside of a composed pallet.\nHandling unit label\n▪ A6, size 210 x 74 mm\n▪ It must be positioned on the front of each handling unit.\n▪ The content of the label must be printed in Arial font.\n▪ The printing must be on black on white background.\n▪ Barcodes must be placed in the middle of the related field.\n4.4.4 Pallet Unit Label\nPallet labels must be attached to the outside of the pallet foil or placed in a plastic transparent\nlabel holder. It is not allowed to glue the pallet label directly to a handling unit.\nThe main label for the pallet unit (pallet, pallet cage)\n▪ A5, size 210 x 148 mm\n▪ Two labels must be implemented on the package, one on the front and one on the\nlongitudinal side.\n▪ The content of the label must be printed in Arial font.\n▪ The printing must be on black on white background.\n▪ Barcodes must be placed in the middle of the related field.\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 15 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 15,
+      "type": "text",
+      "chunk_size": 1651,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 16]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 16,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 16]\n\n123456 =\nSupplier  6 digits SAP Supplier  account\nnumber. Account numbers with less than six\ndigits shall be preceded by zeroes in order to\nmake the Supplier  account number six digits\nlong. | 1A2B3CY29X =\nSupplier  unique 10 digit numeric or\nalphanumeric tracking ID.\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n123456 =\nSupplier  6 digits SAP Supplier  account\nnumber. Account numbers with less than six\ndigits shall be preceded by zeroes in order to\nmake the Supplier  account number six digits\nlong. | 1A2B3CY29X =\nSupplier  unique 10 digit numeric or\nalphanumeric tracking ID.",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 16,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 3 from Page 16]\n\n | Print Date: 15/MAY/2023 Page 16 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 16 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 16,
+      "type": "table",
+      "table_index": 2,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\n4.4.4.1. Homogeneous Pallet Unit Label\nIf a pallet load consists of a single part number (homogeneous pallet), a barcoded pallet label\nmust provide the above-mentioned standards and be attached to both the short side and\nlongitudinal side of the pallet.\n4.4.4.2. Heterogeneous Pallet Unit Label (Mixed Pallet)\nIf multiple part numbers are being shipped within one Pallet, a mixed load bar-coded label\nmust be attached to the short side of the pallet. This must be a “low adhesion” label. The\ngross weight for the complete pallet must be easily visible.\n4.5 Serial Number Specification\nThe most important information on the label is the unique serial number. With this number,\nrelabeling can be avoided.\nTherefore, each Component Supplier  will be responsible for tracking the serial number they\ngenerate for each handling unit and pallet shipped to YAZAKI . Any communications to\nYAZAKI  about particular handling units (e.g. for rework or quality issues) must include the\nserial number that appears on the bar code label.\nEach Component Supplier  is responsible for generating serial numbers that are unique\nacross all of their part numbers and handling units. A serial number shall never be repeated.\nThe diagram below explains the details of the serial number:\n123456 = 1A2B3CY29X =\nSupplier  6 digits SAP Supplier  account Supplier  unique 10 digit numeric or\nnumber. Account numbers with less than six alphanumeric tracking ID.\ndigits shall be preceded by zeroes in order to\nmake the Supplier  account number six digits\nlong.\nTable 3 Creation of Serial number\nSerial number 16-digit sample\nTable 4 Example of Serial number\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 16 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 16,
+      "type": "text",
+      "chunk_size": 2019,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 17]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 17,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 17]\n\nLabel type | Identifier\n-----------------------\nHomogeneous Pallet unit | M\nHeterogeneous Pallet unit | G",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 17,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 3 from Page 17]\n\nAgreed lead time (LT) |  |  |  | Beyond agreed lead time\n(LT)\n-------------------------------------------------------------\n | FIXED PERIOD |  | VARIABLE PERIOD | OPEN PERIOD\n | Week 0 - week 1 |  | Week 2 - till the end of LT | Weeks beyond LT\ninvariable |  |  | + 30% of the total NET qty | fully variable\n |  |  | -100% of the total NET qty | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 17,
+      "type": "table",
+      "table_index": 2,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 4 from Page 17]\n\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 |  | Print Date: 15/MAY/2023 Page 17 of 24\n-------------------------------------------------------------------------------------------\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 |  | Print Date: 15/MAY/2023 Page 17 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 17,
+      "type": "table",
+      "table_index": 3,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nAll pallet labels shall also have a unique 16-digit serial number. In order to separate this\nnumber from the box label, the following identifiers have to be used:\nLabel type Identifier\nHomogeneous Pallet unit M\nHeterogeneous Pallet unit G\nTable 5 Identifiers for labels\n4.6 EDI (Electronic Data Interchange)\nASN (Advanced Shipping Notification)’s are required for each shipment and must include all information pertaining to the\nmaterial on the shipment. Especially the printed serial number (Handling unit number) has to\nbe mentioned.\nIt is required that the Supplier  is able to communicate according to EDIFACT D99A\nrespectively the communicated YAZAKI  standard. For further details please check the\nYAZAKI  Europe Limited DESADV D99A Implementation Guideline for Suppliers on the\nSupplier  portal (EmpowerQLM).\nAll supplier must follow full compliance of the Logistics Requirements as specified in the\nYEL (YAZAKI Europe Limited) Supplier  Logistics Manual demonstrated in “Standard Schedule Agreement” document\nas in attachment EA-SC (Significant/Special Characteristic)-xx-A-01.\nRolling forecast frequency details can be listed as follows:\n• Weekly Horizon: up to 12 months (including period beyond lead time)\n• Communication method: EDI (Electronic Data Interchange) DELFOR\nCall-Off Order details can be listed as follows:\n• Scope limitation: In case the Supplier  has local business (distance < 400 km) with\nany of the Buyer’s Affiliates, Call-Off Orders (EDI (Electronic Data Interchange) DELJIT) might be provided in\naddition to the DELFOR if so agreed directly between the individual Buyer’s Affiliate (Manufacturing Plant)\nand the Supplier  in the individual case.\n• Frequency: Weekly; via EDI (Electronic Data Interchange) message\n• Communication day(s): Agreed/fixed day of the week; Call-Off Order lead time to\nETD min. 3 days\n• Call-off horizon: Week 0 (order week) and Week 1 in line with the Fixed Period as\nset out below\nCommitment and schedule details are as following:\nBeyond agreed lead time\nAgreed lead time (LT)\n(LT)\nFIXED PERIOD VARIABLE PERIOD OPEN PERIOD\nWeek 0 - week 1 Week 2 - till the end of LT Weeks beyond LT\n+ 30% of the total NET qty\ninvariable fully variable\n-100% of the total NET qty\nTable 6 Commitment and Schedule Details\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 17 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 17,
+      "type": "text",
+      "chunk_size": 2406,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 18]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 18,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 18]\n\n | Print Date: 15/MAY/2023 Page 18 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 18 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 18,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\n4.6.1 Advanced Shipping Notice (ASN (Advanced Shipping Notification))\nSupplier  shall send the ASN (Advanced Shipping Notification) within 15 minutes after the departure of the shipment at the\npremises of the Supplier . The agreed ASN (Advanced Shipping Notification) format is the EDI (Electronic Data Interchange) EDIFCAT D99A.\n4.7 Transport\n4.7.1 Transports Processed By Supplier \nIf YAZAKI  is paying for the freight, the SUPPLIER shall use only the forwarders/freight\ncarriers, courier companies and Logistics Service Provider (LSP) specified by YAZAKI .\nExceptions are only permitted in justified cases and subject to prior written approval by the\nYAZAKI  contact.\nThe SUPPLIER is responsible for ensuring that its products are safely loaded and the\npackages secured for transport, according to packing rules. Mixed pallets to different plants\nare not allowed. Only possible to load one plants materials in one pallet.\nAll pallet labels should contain the SAP plant code. Different formats of plant codes will not\nbe allowed. (Fields on the label are explained in EA-SC (Significant/Special Characteristic)-xx-M-001-A-02.) In exceptional\ncases, an additional paper with the SAP plant code to be attached to the pallet.\n4.7.2 Transports Processed By YAZAKI \nDirect shipments, arranged by the Yazaki (Yazaki EMEA) entity, will be executed by using the YAZAKI \nTransport Order Tool. In this case, the supplier and chosen carrier will receive a notification\nmail from the Transport order Tool and will be able to see details of related delivery.\n4.7.3 Cross Dock Operations\nThe SUPPLIER is responsible to share pick up details (box-pallet qty, stackability\ninformation of goods, weight, which Yazaki (Yazaki EMEA) plant, etc. ) to Cross Dock carrier one day\nbefore the fixed pick up till 12h at noon by using Cross Dock carrier web portal\n(exceptionally by mail)\nMixed pallets contain different plants’ materials are not allowed. Only possible to load one\nplants materials to one pallet.\nThe SUPPLIER is responsible for ensuring that its products are safely packed and secured\nfor transport according to packing rules\nAll labels need to be clearly readable, all fields on the label should be able to match the\ndetails in EA-SC (Significant/Special Characteristic)-xx-M-001-A-02. As a plant code SAP plant code should be written on the\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 18 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 18,
+      "type": "text",
+      "chunk_size": 2497,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 19]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 19,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 19]\n\n | Print Date: 15/MAY/2023 Page 19 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 19 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 19,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nlabels. Labels from the X-dock (Cross Dock) service providers, which can be printed from their webportal,\nmust be sticked to the pallet in order to ensure easy handling in our supply chain.\n4.7.4 Premium Freights\nIn case of delay or lateness caused by the Supplier , door-to-door delivery is mandatory. In\nthis case, The Supplier  shall deliver the Products at his own costs on “Delivered Duty Paid”\nterms, (DDP) to Yazaki (Yazaki EMEA) plant as per (INCOTERMS 20XX of the International Chamber of\nCommerce).\n4.8 Terms of Delivery\nDelivery must be executed according to the official and mutually agreed Incoterms\n(INCOTERMS 20XX of the International Chamber of Commerce). The Supplier  is\nresponsible for providing all necessary documents (Delivery note, CMR (Convention Marchandise Routier), Invoice) in line with\nthe local, national and international legislation.\n4.8.1 Transport/Customs Documents\nThe Seller shall provide the buyer with all necessary documents for customs clearance, i.e.\nfor export in the country of shipping, for transit if applicable, and for import in the destination\ncountry, in a permitted form (electronic or in paper form) and within the correct set time\nframe.\nThe required customs documents depend on the status of the selling and or receiving\ncountry/plant.\nRequired documents for EU to EU:\n▪ Invoice (only if shipping by air or sea)\n▪ Packing list\n▪ Shipping doc: AWB / CMR (Convention Marchandise Routier) / B of L\nRequired documents for EU to non EU, EU to EU with transit non EU, non EU to EU, non\nEU to non EU\n▪ Invoice (mandatory)\n▪ Additional docs as per legal requirement of the concerned country\n▪ Preferential docs\n➢ LTSD (Long Term Supplier  Declaration)\n➢ CoO (Certificate of Origin by the Chamber of Commerce)\n➢ EUR1 (by the Chamber of Commerce + stamped by customs officers at import\noffice)\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 19 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 19,
+      "type": "text",
+      "chunk_size": 2139,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 20]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 20,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 20]\n\n | Print Date: 15/MAY/2023 Page 20 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 20 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 20,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\n➢ Euromed-PEM Convention\nSupplier  to ship goods with required documents to obtain preferential status (= to be\nexempt import duties)\n▪ EU Export docs: EX/A reverse (import): non EU to EU\n▪ EU Import docs: T1 document, if applicable: Eur1, ATR, CoO\n▪ Subject to Incoterm: insurance\n▪ Shipping Doc (CMR (Convention Marchandise Routier), AWB, B/L)\n▪ Packing list\n▪ ATR (Free Movement Certificate)\n4.8.2 Invoicing\nThe Supplier  will contact the receiving Yazaki (Yazaki EMEA) plant for invoicing requirements.\nThe following information must be included on all production part invoices submitted to\nYazaki (Yazaki EMEA):\n▪ A unique invoice number (not repeated)\n▪ Yazaki (Yazaki EMEA) Supplier  number\n▪ Yazaki (Yazaki EMEA) part number\n▪ Yazaki (Yazaki EMEA) purchase order number\n▪ Quantity of parts\n▪ Unit and total price\n▪ Country of origin\n▪ Complete and detailed description of the merchandise\n▪ The terms of sale (latest version of INCOTERMS)\nSupplier  will ensure that all information provided on all invoices and shipping/business\ndocuments and/or electronic data accurately reflects the physical goods in the shipment.\nFor more details please to check EA-SC (Significant/Special Characteristic)-xx-M-001-A-03.\nCost of Non-Compliance\nDocumentation costs\n▪ Export declaration / EX1 document: 50€ / shipment\n▪ EUR1 / ATR: 50€ / shipment\n▪ Web-Portal booking: 10€ / shipment\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 20 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 20,
+      "type": "text",
+      "chunk_size": 1632,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 21]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 21,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 21]\n\n | Print Date: 15/MAY/2023 Page 21 of 24\n----------------------------------------\n | Print Date: 15/MAY/2023 Page 21 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 21,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nLabeling Non-conformance\n▪ First occurrence: 30 days grace period to correct labels\n▪ After 30 days 25€ / box that is non-conforming\nYAZAKI  will pass through all incurred expenses in terms of Repackaging, Labeling or any\nfurther activities based on the local labor costs, but with a minimum of 100€, plus applicable\ndocumentation costs.\n4.9 Logistics Quality\nA logistics complaint may be triggered by a process disruption or failure at YAZAKI  that was\ncaused by the SUPPLIER. The SUPPLIER shall be liable for costs arising from logistics\nerrors and/or damages.\nIn the event of a logistics complaint, the SUPPLIER shall be notified thereof and requested\nto analyze the error description or logistics failure, and initiate appropriate corrective and\npreventive action.\nYazaki (Yazaki EMEA) Claim handling system to be used for the Logistics issues.\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 21 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 21,
+      "type": "text",
+      "chunk_size": 1232,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 1 from Page 22]\n\n | Europe Business Management System | Revision Date:\n-----------------------------------------------------\n |  | 15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 | Supplier  Logistics Manual | Revision Level:\nMANUAL |  | REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are |  | \nreference only, see network for latest revision. |  | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 22,
+      "type": "table",
+      "table_index": 0,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 22]\n\nType of\nSupplier  | Concern class |  | Description\n-------------------------------------------------\n |  | Defect name | \n |  |  | \nRaw\nmaterial\nsupplier | Logistics RM | Boxes under-/overfitting the | Either the boxes are over lapping or under fitting the pallet\n |  | pallet | \n |  | Quality of boxes | Improper boxes, not strong enough to sustain stackability of the pallets\n |  | Boxes badly stacked on | Pallets are loaded by material supplier in a manner that doesn't guarantees stability and safety\n |  | pallet | \n |  | Quality of pallets | Non- Fumigated Pallets, 'Damaged pallets, or non compliant pallets seize\n |  | Non flat pallet top | Top of the pallet not on equale level\n |  | Non-Protected goods | Goods were missing protection and exposed to damage, Water, Dust, etc. or Losse boxes\n |  | Single box shipment | Single box shipment could have been consolidated with other pallets\n |  | Pallet labeled Non- | Pallets are stackable and labeled non-stackable\n |  | Stackabale | \n |  | Dirty Packaging | Dirt or any unkown substances found on packaging\n |  | Not according SPS (Standard Packing Size) | Less or more sps\n |  | Missing Label | Primary product packaging or transport packaging are missing\n |  |  | Wrong Informations on Label\n |  | Wrong Information on Label | \n |  |  | \n |  | Insufficient Label | Informations related to supplier, receiver, weight, Nb of items, Yazaki (Yazaki EMEA) prt Nb Primary packaging\nnot labeled according to European automotive standards.\n |  | Information | \n |  | Wrong Label placement | Label shall be placed in order to be readable and reachable\n |  | Damaged Label | Label is damaged wich made it illegible by barcode reader\n |  | Swapped label | Label of item A put on item B\n |  | Bad Label fixation | Label was badly fixed to the box which can lead to loss of goods\n |  | Missing/Wrong Document | Delivery note, export documents, etc, wich are wrong, missing, or submited late.\n |  | EDI (Electronic Data Interchange) non conformities | Wrong data sent by supplier, Missing EDI (Electronic Data Interchange), or late submission.\n |  | Overshipment | Supplier  shipped more than the ordered goods\n |  | Shortshipment | Supplier  shipped less goods than ordered\n |  | Wrong part number | Supplier  shipped wrong part than ordered",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 22,
+      "type": "table",
+      "table_index": 1,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "[TABLE 3 from Page 22]\n\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 |  | Print Date: 15/MAY/2023 Page 22 of 24\n-------------------------------------------------------------------------------------------\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 |  | Print Date: 15/MAY/2023 Page 22 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 22,
+      "type": "table",
+      "table_index": 2,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "Revision Date:\nEurope Business Management System\n15/MAY/2023\nEA-SC (Significant/Special Characteristic)-xx-M-001 Revision Level:\nSupplier  Logistics Manual\nMANUAL REV 1.1\nCONFIDENTIAL: This information is Yazaki (Yazaki EMEA) property and must follow applicable global and regional confidentiality rules. Copies are\nreference only, see network for latest revision.\nBelow the type of Logistics Claims can be raised from Yazaki (Yazaki EMEA) plants by Yazaki (Yazaki EMEA) Claim\nhandling system:\nType of\nConcern class Defect name Description\nSupplier \nBoxes under-/overfitting the\nEither the boxes are over lapping or under fitting the pallet\npallet\nQuality of boxes Improper boxes, not strong enough to sustain stackability of the pallets\nBoxes badly stacked on\nPallets are loaded by material supplier in a manner that doesn't guarantees stability and safety\npallet\nQuality of pallets Non- Fumigated Pallets, 'Damaged pallets, or non compliant pallets seize\nNon flat pallet top Top of the pallet not on equale level\nNon-Protected goods Goods were missing protection and exposed to damage, Water, Dust, etc. or Losse boxes\nSingle box shipment Single box shipment could have been consolidated with other pallets\nPallet labeled Non-\nPallets are stackable and labeled non-stackable\nStackabale\nDirty Packaging Dirt or any unkown substances found on packaging\nNot according SPS (Standard Packing Size) Less or more sps\nRaw\nmaterial Logistics RM Missing Label Primary product packaging or transport packaging are missing\nsupplier\nWrong Information on Label Wrong Informations on Label\nInsufficient Label Informations related to supplier, receiver, weight, Nb of items, Yazaki (Yazaki EMEA) prt Nb Primary packaging\nInformation not labeled according to European automotive standards.\nWrong Label placement Label shall be placed in order to be readable and reachable\nDamaged Label Label is damaged wich made it illegible by barcode reader\nSwapped label Label of item A put on item B\nBad Label fixation Label was badly fixed to the box which can lead to loss of goods\nMissing/Wrong Document Delivery note, export documents, etc, wich are wrong, missing, or submited late.\nEDI (Electronic Data Interchange) non conformities Wrong data sent by supplier, Missing EDI (Electronic Data Interchange), or late submission.\nOvershipment Supplier  shipped more than the ordered goods\nShortshipment Supplier  shipped less goods than ordered\nWrong part number Supplier  shipped wrong part than ordered\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 Print Date: 15/MAY/2023 Page 22 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 22,
+      "type": "text",
+      "chunk_size": 2383,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 1:\n | Print Date: 15/MAY/2023 Page 1 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 1,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 1:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 1,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 2:\n | Print Date: 15/MAY/2023 Page 2 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 2,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 2:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 2,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 3:\n | Print Date: 15/MAY/2023 Page 3 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 3,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 3:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 3,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 4:\n | Print Date: 15/MAY/2023 Page 4 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 4,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 4:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 4,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 5:\n | Print Date: 15/MAY/2023 Page 5 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 5,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 5:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 5,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 6:\n | Print Date: 15/MAY/2023 Page 6 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 6,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 6:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 6,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 7:\n | Print Date: 15/MAY/2023 Page 7 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 7,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 7:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 7,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 8:\nStandard parts | Non-Standard parts\n--- | ---\nTape / Foam | Wire Spools /drums\nClips / Fasteners | Terminal reels\nNuts / Bolts / Screws | Convolute Tubing\nConnectors | Extended Length Plastic Shields/Troughs",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 8,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 8:\n | Print Date: 15/MAY/2023 Page 8 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 8,
+      "type": "table",
+      "table_index": 2,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 8:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 8,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 9:\n | Print Date: 15/MAY/2023 Page 9 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 9,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 9:\nMay\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 9,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9242101311683655,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 9:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 9,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 10:\n | Print Date: 15/MAY/2023 Page 10 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 10,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 10:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 10,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 11:\nTransport type | Max. Loading unit Height (mm)\n--- | ---\nStandard truck / High Cube Sea container | 1.275 mm\nMega truck | 965 mm (3 units stacking)\n1.450 mm (2 units stacking)",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 11,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 11:\n | Print Date: 15/MAY/2023 Page 11 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 11,
+      "type": "table",
+      "table_index": 2,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 11:\nZa\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 11,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6967511773109436,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 11:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 11,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 12:\n | Print Date: 15/MAY/2023 Page 12 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 12,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 12:\nWeight of pallet > 500kg\nEnsure that pallet 1s loaded\nundemeath\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 12,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.7375496029853821,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 12:\naa\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 12,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9734838604927063,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 12:\n==\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 12,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.9550374746322632,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 12:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 12,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 13:\n | Print Date: 15/MAY/2023 Page 13 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 13,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 13:\nLZ\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 13,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8648151159286499,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 13:\n)\nEF\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 13,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8536189198493958,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 13:\nV4\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 13,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6230416893959045,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 13:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 13,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 14:\n | Print Date: 15/MAY/2023 Page 14 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 14,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 14:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 14,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 15:\nData identifier | Data area\n--- | ---\nP | YAZAKI  part number\nQ | Quantity\nV | Supplier  number\nS | Serial number\n2P | Supplier  part no. (optional)",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 15,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 15:\n | Print Date: 15/MAY/2023 Page 15 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 15,
+      "type": "table",
+      "table_index": 2,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 15:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 15,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 16:\n123456 =\nSupplier  6 digits SAP Supplier  account\nnumber. Account numbers with less than six\ndigits shall be preceded by zeroes in order to\nmake the Supplier  account number six digits\nlong. | 1A2B3CY29X =\nSupplier  unique 10 digit numeric or\nalphanumeric tracking ID.",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 16,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 16:\n | Print Date: 15/MAY/2023 Page 16 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 16,
+      "type": "table",
+      "table_index": 2,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 16:\n123456 = 1A2B3CY29X =\nSupplier  6 digits SAP Supplier  account | Supplier  unique 10 digit numeric or\nnumber. Account numbers with less than six | alphanumeric tracking ID.\ndigits shall be preceded by zeroes in order to\nmake the Supplier  account number six digits\nlong.\nTable 2? Creation of Serial number\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 16,
+      "type": "table_scanned",
+      "table_index": 1,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8633593916893005,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 16:\n1234561A2B3CY29X\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 16,
+      "type": "table_scanned",
+      "table_index": 2,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.8901166319847107,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 16:\nAON ON\n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 16,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.764755368232727,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 16:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 16,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 17:\nLabel type | Identifier\n--- | ---\nHomogeneous Pallet unit | M\nHeterogeneous Pallet unit | G",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 17,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 17:\nAgreed lead time (LT) |  |  |  | Beyond agreed lead time\n(LT)\n--- | --- | --- | --- | ---\n | FIXED PERIOD |  | VARIABLE PERIOD | OPEN PERIOD\n | Week 0 - week 1 |  | Week 2 - till the end of LT | Weeks beyond LT\ninvariable |  |  | + 30% of the total NET qty | fully variable\n |  |  | -100% of the total NET qty | ",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 17,
+      "type": "table",
+      "table_index": 2,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 17:\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 |  | Print Date: 15/MAY/2023 Page 17 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 17,
+      "type": "table",
+      "table_index": 3,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 17:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 17,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 18:\n | Print Date: 15/MAY/2023 Page 18 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 18,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 18:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 18,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 19:\n | Print Date: 15/MAY/2023 Page 19 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 19,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 19:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 19,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 20:\n | Print Date: 15/MAY/2023 Page 20 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 20,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 20:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 20,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 21:\n | Print Date: 15/MAY/2023 Page 21 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 21,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 21:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 21,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 22:\nType of\nSupplier  | Concern class |  | Description\n--- | --- | --- | ---\n |  | Defect name | \n |  |  | \nRaw\nmaterial\nsupplier | Logistics RM | Boxes under-/overfitting the | Either the boxes are over lapping or under fitting the pallet\n |  | pallet | \n |  | Quality of boxes | Improper boxes, not strong enough to sustain stackability of the pallets\n |  | Boxes badly stacked on | Pallets are loaded by material supplier in a manner that doesn't guarantees stability and safety\n |  | pallet | \n |  | Quality of pallets | Non- Fumigated Pallets, 'Damaged pallets, or non compliant pallets seize\n |  | Non flat pallet top | Top of the pallet not on equale level\n |  | Non-Protected goods | Goods were missing protection and exposed to damage, Water, Dust, etc. or Losse boxes\n |  | Single box shipment | Single box shipment could have been consolidated with other pallets\n |  | Pallet labeled Non- | Pallets are stackable and labeled non-stackable\n |  | Stackabale | \n |  | Dirty Packaging | Dirt or any unkown substances found on packaging\n |  | Not according SPS (Standard Packing Size) | Less or more sps\n |  | Missing Label | Primary product packaging or transport packaging are missing\n |  |  | Wrong Informations on Label\n |  | Wrong Information on Label | \n |  |  | \n |  | Insufficient Label | Informations related to supplier, receiver, weight, Nb of items, Yazaki (Yazaki EMEA) prt Nb Primary packaging\nnot labeled according to European automotive standards.\n |  | Information | \n |  | Wrong Label placement | Label shall be placed in order to be readable and reachable\n |  | Damaged Label | Label is damaged wich made it illegible by barcode reader\n |  | Swapped label | Label of item A put on item B\n |  | Bad Label fixation | Label was badly fixed to the box which can lead to loss of goods\n |  | Missing/Wrong Document | Delivery note, export documents, etc, wich are wrong, missing, or submited late.\n |  | EDI (Electronic Data Interchange) non conformities | Wrong data sent by supplier, Missing EDI (Electronic Data Interchange), or late submission.\n |  | Overshipment | Supplier  shipped more than the ordered goods\n |  | Shortshipment | Supplier  shipped less goods than ordered\n |  | Wrong part number | Supplier  shipped wrong part than ordered",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 22,
+      "type": "table",
+      "table_index": 1,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE on page 22:\nTemplate: EA-QM-xx-P-001-F-01 Rev1.0 27/APR/2017 |  | Print Date: 15/MAY/2023 Page 22 of 24",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 22,
+      "type": "table",
+      "table_index": 2,
+      "extraction_method": "pdfplumber",
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  },
+  {
+    "page_content": "TABLE (AI-detected, scanned) on page 22:\n“WJ YAZAKI \n",
+    "metadata": {
+      "source": "YEL Supplier Logistics Manual website",
+      "page": 22,
+      "type": "table_scanned",
+      "table_index": 0,
+      "extraction_method": "ai_table_detector",
+      "confidence": 0.6761460304260254,
+      "filename": "YEL Supplier Logistics Manual website"
+    }
+  }
+]

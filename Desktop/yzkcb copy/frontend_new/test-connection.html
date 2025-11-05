@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Backend Connection Test</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .test-panel {
+            background: white;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #333;
+            margin-top: 0;
+        }
+        .status {
+            padding: 15px;
+            border-radius: 4px;
+            margin: 15px 0;
+            font-weight: 500;
+        }
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .status.warning {
+            background: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+        }
+        button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px 10px 10px 0;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        .log {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            padding: 15px;
+            max-height: 400px;
+            overflow-y: auto;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            margin-top: 20px;
+        }
+        .log-entry {
+            margin: 5px 0;
+            padding: 4px 0;
+            border-bottom: 1px solid #eee;
+        }
+        .log-entry:last-child {
+            border-bottom: none;
+        }
+        .log-entry.success { color: #28a745; }
+        .log-entry.error { color: #dc3545; }
+        .log-entry.info { color: #17a2b8; }
+        .log-entry.warn { color: #ffc107; }
+        code {
+            background: #e9ecef;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-panel">
+        <h1>🔌 Backend Connection Test</h1>
+        <p>This page tests the connection between your frontend and the Gradio backend running on <strong>http://localhost:7861</strong></p>
+        
+        <div id="status-container"></div>
+        
+        <button id="test-health" onclick="testHealth()">Test Health Check</button>
+        <button id="test-endpoints" onclick="testEndpoints()">Discover Chat Endpoints</button>
+        <button id="test-message" onclick="testMessage()">Send Test Message</button>
+        <button onclick="clearLog()">Clear Log</button>
+        
+        <div class="log" id="log-output">
+            <div class="log-entry info">Ready to test. Click a button above to start.</div>
+        </div>
+    </div>
+
+    <script src="js/config.js"></script>
+    <script src="js/chatbot-api.js"></script>
+    
+    <script>
+        const api = new ChatbotAPI(API_CONFIG);
+        
+        function log(message, type = 'info') {
+            const logOutput = document.getElementById('log-output');
+            const entry = document.createElement('div');
+            entry.className = `log-entry ${type}`;
+            entry.innerHTML = `<span style="color:#666">[${new Date().toLocaleTimeString()}]</span> ${message}`;
+            logOutput.appendChild(entry);
+            logOutput.scrollTop = logOutput.scrollHeight;
+        }
+        
+        function showStatus(message, type) {
+            const container = document.getElementById('status-container');
+            container.innerHTML = `<div class="status ${type}">${message}</div>`;
+        }
+        
+        function clearLog() {
+            document.getElementById('log-output').innerHTML = '<div class="log-entry info">Log cleared.</div>';
+            document.getElementById('status-container').innerHTML = '';
+        }
+        
+        async function testHealth() {
+            log('Testing backend health check...', 'info');
+            showStatus('Testing...', 'warning');
+            
+            try {
+                const isHealthy = await api.checkHealth();
+                
+                if (isHealthy) {
+                    log('✓ Backend is healthy and reachable', 'success');
+                    showStatus('✓ Backend is connected and healthy!', 'success');
+                } else {
+                    log('✗ Backend health check failed', 'error');
+                    showStatus('✗ Backend is not reachable. Make sure it\'s running on port 7861.', 'error');
+                }
+            } catch (error) {
+                log(`✗ Health check error: ${error.message}`, 'error');
+                showStatus('✗ Connection failed. Check console for details.', 'error');
+            }
+        }
+        
+        async function testEndpoints() {
+            log('Discovering available chat endpoints...', 'info');
+            showStatus('Testing endpoints...', 'warning');
+            
+            const endpoints = api.chatEndpointCandidates;
+            let foundWorking = false;
+            
+            for (const endpoint of endpoints) {
+                log(`Trying endpoint: <code>${endpoint}</code>`, 'info');
+                
+                try {
+                    const url = `${api.baseURL}${endpoint}`;
+                    const response = await fetch(url, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            message: 'test',
+                            session_id: api.sessionId
+                        })
+                    });
+                    
+                    if (response.ok) {
+                        log(`✓ Endpoint <code>${endpoint}</code> is working (HTTP ${response.status})`, 'success');
+                        foundWorking = true;
+                        api.workingChatEndpoint = endpoint;
+                        break;
+                    } else {
+                        log(`✗ Endpoint <code>${endpoint}</code> returned HTTP ${response.status}`, 'warn');
+                    }
+                } catch (error) {
+                    log(`✗ Endpoint <code>${endpoint}</code> failed: ${error.message}`, 'error');
+                }
+            }
+            
+            if (foundWorking) {
+                showStatus(`✓ Found working endpoint: ${api.workingChatEndpoint}`, 'success');
+            } else {
+                showStatus('✗ No working chat endpoints found. Check your backend configuration.', 'error');
+                log('⚠ HINT: Your Gradio app needs to expose a chat endpoint. Check the backend code.', 'warn');
+            }
+        }
+        
+        async function testMessage() {
+            log('Sending test message to backend...', 'info');
+            showStatus('Sending message...', 'warning');
+            
+            const testUserInfo = {
+                full_name: 'Test User',
+                email: 'test@example.com',
+                company_name: 'Test Company',
+                supplier_type: 'Current Supplier',
+                project_name: 'Test',
+                city: 'Test City',
+                country: 'Test Country'
+            };
+            
+            try {
+                const response = await api.sendMessageWithRetry('Hello, this is a test message', testUserInfo);
+                
+                log('✓ Message sent successfully!', 'success');
+                log(`Response: ${JSON.stringify(response, null, 2)}`, 'info');
+                showStatus('✓ Message sent and response received!', 'success');
+                
+            } catch (error) {
+                log(`✗ Failed to send message: ${error.message}`, 'error');
+                showStatus('✗ Message sending failed. See log for details.', 'error');
+                
+                if (error.message.includes('CORS')) {
+                    log('⚠ CORS Error detected. Your backend needs to allow requests from http://localhost:8000', 'warn');
+                }
+            }
+        }
+        
+        // Auto-run health check on load
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                log('=== Auto-running health check ===', 'info');
+                testHealth();
+            }, 500);
+        });
+    </script>
+</body>
+</html>

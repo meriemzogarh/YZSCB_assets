@@ -1,0 +1,322 @@
+[
+  {
+    "page_content": "[TABLE 2 from Page 2]\n\nAPQP (Advanced Product Quality Planning) Project\n4 | View Task/Activity\n5 | Update Task Progress\n6 | Resubmitting the Task\n7 | Request Date Change for Task\n8 | Raise Warning/Risk Flag\n9 | Resolve – Warning/Risk Flag\n10 | History of Task Progress, Date Change Request & Flags\n11 | Project Dashboard\n12 | APQP (Advanced Product Quality Planning) Listing Pages",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 2,
+      "type": "table",
+      "table_index": 1,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product Quality Planning) Quick Access User Guide\nAPQP (Advanced Product Quality Planning) Module\nSl.No Sub-Sections\n1 Login to QLM\n2 Navigation to APQP (Advanced Product Quality Planning) Project\n3 Assigning Members to APQP (Advanced Product Quality Planning) Project\n4 View Task/Activity\n5 Update Task Progress\n6 Resubmitting the Task\n7 Request Date Change for Task\n8 Raise Warning/Risk Flag\n9 Resolve – Warning/Risk Flag\n10 History of Task Progress, Date Change Request & Flags\n11 Project Dashboard\n12 APQP (Advanced Product Quality Planning) Listing Pages\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 2",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 2,
+      "type": "text",
+      "chunk_size": 448,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Login to QLM\nEnter the URL in browser for logging in QLM web page\nEnter the Username and Password\nEnter Captcha & Click on Sign-In\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 3",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 3,
+      "type": "text",
+      "chunk_size": 184,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Navigate to APQP (Advanced Product Quality Planning) Program\n• Go to QLM menu and Click on APQP (Advanced Product Quality Planning) → Projects.\n• Projects can also be filtered based on the Program #, Customer, Program Name, Program Manager etc.\n• Click on Action -> View to navigate into the required APQP (Advanced Product Quality Planning) Project.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 5",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 5,
+      "type": "text",
+      "chunk_size": 296,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Assigning Members to APQP (Advanced Product Quality Planning) Project\n• Click on the MENU on the right side to access the Members section.\n• Supplier  can assign the Supplier  Users and click on Update so that the assigned Users will have access to the\nrespective Tasks/Gate Review.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 7",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 7,
+      "type": "text",
+      "chunk_size": 298,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Navigation to Task\nTo navigate to the APQP (Advanced Product Quality Planning) Task page, click on MENU -> Tasks in the view page of APQP (Advanced Product Quality Planning) Project\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 9",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 9,
+      "type": "text",
+      "chunk_size": 163,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "View Task/Activity\n• Click on the Action button against the task and select View Task.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 10",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 10,
+      "type": "text",
+      "chunk_size": 141,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "View Task/Activity\n• Deliverable details added by the ASQE (Advanced Supplier  Quality Engineer)\nwill be visible in Activity Description\nsection.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 11",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 11,
+      "type": "text",
+      "chunk_size": 162,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Update Task Progress Status - Add Actuals\nTo Update the Progress of the Task, click on Action -> Add Actuals.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 13",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 13,
+      "type": "text",
+      "chunk_size": 164,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Update Task Progress Status - Add Actuals\nUser can select the Date for which the progress update needs to\nbe added. By default, current date will be added.\nEnter the number of Hours worked (Optional)\nAdd the comments to explain the progress of the task\nAdd required files in the attachment section\nSelect the %Progress of the Task and then click on Submit.\nNOTE: If there is a Flag raised for an activity, the task cannot be\ncompleted to 100%\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 14",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 14,
+      "type": "text",
+      "chunk_size": 497,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Resubmitting the task\n• If the Customer User rejects the task, the Rejected label is shown for the task and the status of task progress will go back\nto 0%.\n• Click on Action -> Add Actuals to update the Task Progress\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 16",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 16,
+      "type": "text",
+      "chunk_size": 271,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Request Date Change for Task\nThe Supplier  User assigned to the task can request for a Date Change.\nClick on Action -> Change Date against the task for which date change must be requested.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 18",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 18,
+      "type": "text",
+      "chunk_size": 242,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Request Date Change for Task\nSelect the Revised Due Date for the Task Completion.\nProvide the Reason for the Date Change Request in the\nBrief Description section.\nClick on Submit to request the Date Change.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 19",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 19,
+      "type": "text",
+      "chunk_size": 261,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Raise Warning Flag\nIf there are any concern/issues for a Task, the User can raise a Flag Warning by clicking on Action -> Flag Warning.\nIf there are Risks associated with a task, User can raise a Flag Risk by clicking on Action -> Flag Risk\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 21",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 21,
+      "type": "text",
+      "chunk_size": 295,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Raise Warning Flag\nUser can select if Cost, Quality and Time are\naffected.\nProvide the Description of the concern/issue.\n(Mandatory)\nUser can add the Risk Mitigation Actions.\n+\nClick on in the Next Steps section to add\nmitigation actions.\nClick on Submit after adding the actions.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 22",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 22,
+      "type": "text",
+      "chunk_size": 335,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 23]\n\nNote | :\n--------\nNote | :",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "table",
+      "table_index": 1,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Add Mitigation Actions for the Flag\nProvide the following details :\nName – Name of the Action.\nDescription – Description of the Action (Optional)\nResponsible User- Assign responsible supplier user for\nthe action in the Supplier  field.\nDue Date – assign due date by which the Action needs\nto be completed by the Responsible User.\nOnce Action details are provided, click on Create.\nUser can add multiple Actions for a flag.\nNote: If there is a Flag raised for an activity, the task\ncannot be completed to 100%\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 23",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 23,
+      "type": "text",
+      "chunk_size": 562,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Add Mitigation Actions for the Flag\nThe User can also add additional Actions for the Flag that is already raised.\nClick on Action -> Next Steps against the task.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 24",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 24,
+      "type": "text",
+      "chunk_size": 216,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Updating Flag Action Status\nThe Responsible User assigned for Flag actions can update the action status by clicking on symbol.\nClick on Change and then select the Progress update options like In progress, Complete or Cancelled.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 25",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 25,
+      "type": "text",
+      "chunk_size": 282,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Updating Flag Action Status\nOn clicking the progress of the action, Pop up\nwindow opens\nEnter the description (optional)\nClick on Sign and Change to update the status\nof the action.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 26",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 26,
+      "type": "text",
+      "chunk_size": 236,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Resolve - Warning/Risk Flag\nOnce the Mitigation Action are completed for a Flag raised, the Flag can now be resolved.\nTo resolve a Flag, click on Action -> Flag Resolved.\nIn the Flag resolved window, Provide the Description on how the flag was resolved. (Mandatory)\nClick on Submit to resolve the Flag.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 28",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 28,
+      "type": "text",
+      "chunk_size": 357,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Task Progress, Date Change Request & Flags\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 29",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 29,
+      "type": "text",
+      "chunk_size": 108,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Task Progress\nTo access the History of Task Progress, click on button.\nHistory of the Tasks along with Comments and Attachments are displayed.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 30",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 30,
+      "type": "text",
+      "chunk_size": 208,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Date Change\nTo access the History of Date Change, click on (clock) button.\nHistory of Date Changes along Current Due and Revised Due Dates are displayed.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 31",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 31,
+      "type": "text",
+      "chunk_size": 219,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "[TABLE 2 from Page 32]\n\n | \n---\n32 | \n | ",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "table",
+      "table_index": 1,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "History of Flags Raised\nTo view the History of Flags Raised for a task, click on symbol.\nHistory of Flag along with Actions can be viewed.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 32",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 32,
+      "type": "text",
+      "chunk_size": 193,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Project/Phase Progress Dashboards\nIn the MENU, Click on the Dashboard to access all the Dashboards related to the Project.\nPhase wise/Overall Project Dashboards are available wherein the Progress of an individual Phase with all the\nstatuses can be tracked.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 34",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 34,
+      "type": "text",
+      "chunk_size": 311,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "Tracking Key Tasks\nUpcoming Key Task/Activities can be tracked from the Dashboard itself.\nUsers can also directly navigate to that Key Task by clicking on the Upcoming\nKey Activities.\nIf there are any Risks associated with a Key Task i.e. If any Risk/Warning\nFlags have been raised for a Key task, those risks can also be viewed from\nthis Dashboard.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 35",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 35,
+      "type": "text",
+      "chunk_size": 404,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product Quality Planning) Listing Pages\nIn the APQP (Advanced Product Quality Planning) Listing Page, there are following accordions\n1. My Task – It shows the list of activities that are assigned to logged-in user.\n2. My Flag – It shows the list of activities where logged-in user has raised flag.\n3. My Flag Action - It shows the list of all the Flag action raised for which the logged-in user is responsible user.\n4. My Issue - It shows the list of all the Issues for which the logged-in user is responsible to resolve.\n5. All APQP (Advanced Product Quality Planning) – It shows the list of all the APQP (Advanced Product Quality Planning) projects that are assigned to the supplier.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 37",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 37,
+      "type": "text",
+      "chunk_size": 611,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product Quality Planning)- My Tasks Listing Page\n• On clicking My Task Accordion, the user can see all the tasks that are assigned to the user.\n• The User can select the Status to Open to view the list of tasks that are yet to be completed.\n• On Selecting the Status to Closed, the user can view the list of all tasks that are completed.\n• For the Open Tasks, user can click on action button to update the Task progress, Raise flag and Request date change\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 38",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 38,
+      "type": "text",
+      "chunk_size": 489,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product Quality Planning)- My Flag Listing Page\n• On clicking My Flag Accordion, the user can see all the tasks that are logged-in user has raised.\n• The User can select the Status to Open to view the list of flagged tasks that are yet to be resolved.\n• On Selecting the Status to Closed, the user can view the list of all flagged tasks that are resolved.\n• For the Open Tasks, user can click on action button to update the Next Steps, View Activity.\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 39",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 39,
+      "type": "text",
+      "chunk_size": 484,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  },
+  {
+    "page_content": "APQP (Advanced Product Quality Planning) – My Flag Action Listing Page\n• On clicking My Flag Action Accordion, the user can see all the flag actions raised for which the logged-in user is responsible to\nresolve.\n• The User can filter the actions by clicking on the Status and can select the following options.\n• Open - shows the list of all flag action steps that are to be completed.\n• In Progress- shows the list of all flag action steps that are In progress status.\n• Closed – shows the list of all flag actions that are completed.\n• The User can update the action status by clicking on change and by selecting the status as in Progress, Complete or Cancelled\n© RGBSI COPYRIGHT 2021-CONFIDENTIAL AND PROPRIETARY 40",
+    "metadata": {
+      "source": "data\\pdf_backup\\APQP - Quick Access User Guide for Suppliers",
+      "page": 40,
+      "type": "text",
+      "chunk_size": 681,
+      "filename": "APQP - Quick Access User Guide for Suppliers"
+    }
+  }
+]

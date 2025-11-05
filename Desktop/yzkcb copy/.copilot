@@ -1,0 +1,9 @@
+# Copilot Project Instructions
+
+## Environment Configuration
+All code execution, shell commands, and environment-dependent operations in this project **must use the `rag_env` Conda environment**.
+
+### Rules for Copilot
+- When suggesting any terminal command (e.g., `python`, `pip`, `flask`, etc.), **prepend environment activation**:
+  ```bash
+  conda activate rag_env
