@@ -39,7 +39,7 @@ def create_app(config_name: str = None) -> Flask:
     """
     # Create Flask app
     app = Flask(__name__, 
-                static_folder='../frontend_new',
+                static_folder='../frontend',
                 static_url_path='')
     
     # Load configuration
@@ -96,17 +96,17 @@ def create_app(config_name: str = None) -> Flask:
     @app.route('/css/<path:path>')
     def serve_css(path):
         """Serve CSS files."""
-        return send_from_directory('../frontend_new/css', path)
+        return send_from_directory('../frontend/css', path)
     
     @app.route('/js/<path:path>')
     def serve_js(path):
         """Serve JavaScript files."""
-        return send_from_directory('../frontend_new/js', path)
+        return send_from_directory('../frontend/js', path)
     
     @app.route('/assets/<path:path>')
     def serve_assets(path):
         """Serve asset files."""
-        return send_from_directory('../frontend_new/assets', path)
+        return send_from_directory('../frontend/assets', path)
     
     # API info endpoint
     @app.route('/api')

@@ -3,8 +3,7 @@ flask>=3.0.0
 flask-cors>=4.0.0
 flask-limiter>=3.5.0
 
-# Web UI - Remove Gradio after migration
-# gradio>=4.0.0  # DEPRECATED - Remove after frontend migration complete
+# Web UI - Using Flask REST API with static frontend
 
 # LLM & LangChain
 langchain>=0.0.350
@@ -60,9 +59,6 @@ sqlalchemy>=2.0.0
 # API
 pydantic>=2.0.0
 pydantic-settings>=2.0.0
-
-# UI
-gradio>=4.0.0
 
 # Markdown processing
 markdown>=3.5.0

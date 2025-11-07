@@ -51,9 +51,14 @@ class SessionManager:
         self.running = False
         
         # Configuration from environment variables
-        self.INACTIVITY_TIMEOUT_MINUTES = int(os.getenv('SESSION_TIMEOUT_MINUTES', '2'))
+        # Default inactivity timeout changed from 2 -> 5 minutes
+        self.INACTIVITY_TIMEOUT_MINUTES = int(os.getenv('SESSION_TIMEOUT_MINUTES', '5'))
         self.MONITOR_INTERVAL_SECONDS = int(os.getenv('SESSION_MONITOR_INTERVAL_SECONDS', '30'))
         
+        # Log the effective timeout for debugging
+        logger.info(f"Session Manager: Inactivity timeout set to {self.INACTIVITY_TIMEOUT_MINUTES} minutes")
+        logger.info(f"Session Manager: Monitor interval set to {self.MONITOR_INTERVAL_SECONDS} seconds")
+
         # Email configuration
         self.smtp_host = os.getenv('SMTP_HOST', 'smtp.gmail.com')
         self.smtp_port = int(os.getenv('SMTP_PORT', '587'))
@@ -61,7 +66,7 @@ class SessionManager:
         self.smtp_password = os.getenv('SMTP_PASSWORD', '')
         self.admin_email = os.getenv('ADMIN_EMAIL', '')
         self.from_email = os.getenv('FROM_EMAIL', self.smtp_user)
-        
+
         logger.info("Session Manager initialized")
     
     def connect(self) -> bool:
@@ -128,20 +133,37 @@ class SessionManager:
     
     def is_session_active(self, session_id: str) -> bool:
         """
-        Check if a session is currently active
+        Check if a session is currently active and not timed out
         
         Args:
             session_id: Session identifier
             
         Returns:
-            bool: True if session exists and is active
+            bool: True if session exists, is active, and not timed out
         """
         try:
             session = self.sessions_collection.find_one({
                 "session_id": session_id,
                 "status": "active"
             })
-            return session is not None
+            
+            if session is None:
+                return False
+            
+            # Check if session has timed out due to inactivity
+            timeout_threshold = datetime.now() - timedelta(minutes=self.INACTIVITY_TIMEOUT_MINUTES)
+            last_activity = session.get('last_activity')
+            
+            if last_activity and last_activity < timeout_threshold:
+                # Session has timed out - mark it as inactive
+                logger.info(f"⏰ Session timed out: {session_id[:8]}... (inactive for {self.INACTIVITY_TIMEOUT_MINUTES}+ minutes)")
+                self.sessions_collection.update_one(
+                    {"session_id": session_id},
+                    {"$set": {"status": "inactive", "ended_at": datetime.now()}}
+                )
+                return False
+            
+            return True
         except Exception as e:
             logger.error(f"❌ Error checking session status: {e}")
             return False
