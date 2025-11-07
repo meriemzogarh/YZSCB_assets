@@ -638,7 +638,7 @@ body {
     text-align: right;
 }
 
-/* Typing Indicator */
+/* Typing Indicator - Old (kept for backward compatibility) */
 .typing-indicator {
     display: flex;
     gap: 10px;
@@ -652,6 +652,26 @@ body {
 
 .typing-indicator.hidden {
     display: none;
+}
+
+/* New Typing Indicator in Message Format */
+.typing-message {
+    animation: fadeIn 0.3s ease-in;
+}
+
+.typing-bubble {
+    background: white;
+    padding: 12px 16px;
+    min-height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.typing-indicator-dots {
+    display: flex;
+    gap: 6px;
+    align-items: center;
 }
 
 .typing-dot {
@@ -676,6 +696,17 @@ body {
     }
     30% {
         transform: translateY(-10px);
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
     }
 }
 

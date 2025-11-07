@@ -541,12 +541,50 @@ class ChatbotUI {
 
     // Show typing indicator
     showTypingIndicator() {
-        this.elements.typingIndicator.classList.remove('hidden');
+        // Remove any existing typing indicator
+        this.hideTypingIndicator();
+        
+        // Create typing indicator message
+        const messageDiv = document.createElement('div');
+        messageDiv.className = 'message bot typing-message';
+        messageDiv.id = 'typing-message';
+        
+        const avatar = document.createElement('div');
+        avatar.className = 'message-avatar';
+        avatar.textContent = 'Y';
+        
+        const contentDiv = document.createElement('div');
+        contentDiv.className = 'message-content';
+        
+        const bubble = document.createElement('div');
+        bubble.className = 'message-bubble typing-bubble';
+        
+        const typingIndicator = document.createElement('div');
+        typingIndicator.className = 'typing-indicator-dots';
+        
+        // Create three dots
+        for (let i = 0; i < 3; i++) {
+            const dot = document.createElement('div');
+            dot.className = 'typing-dot';
+            typingIndicator.appendChild(dot);
+        }
+        
+        bubble.appendChild(typingIndicator);
+        contentDiv.appendChild(bubble);
+        messageDiv.appendChild(avatar);
+        messageDiv.appendChild(contentDiv);
+        
+        this.elements.messages.appendChild(messageDiv);
         this.scrollToBottom();
     }
 
     // Hide typing indicator
     hideTypingIndicator() {
+        const typingMessage = document.getElementById('typing-message');
+        if (typingMessage) {
+            typingMessage.remove();
+        }
+        // Also hide the old typing indicator if it exists
         this.elements.typingIndicator.classList.add('hidden');
     }
 
