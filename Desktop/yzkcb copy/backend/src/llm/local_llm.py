@@ -1,6 +1,13 @@
 # src/llm/local_llm.py
 
-from langchain_community.llms import Ollama
+try:
+    from langchain_ollama import OllamaLLM as Ollama
+except ImportError:
+    # Fallback to old import if new package not installed
+    from langchain_community.llms import Ollama
+    import warnings
+    warnings.warn("Please install langchain-ollama: pip install langchain-ollama", DeprecationWarning)
+
 from langchain_core.callbacks.manager import CallbackManager
 from langchain_core.callbacks import StreamingStdOutCallbackHandler
 from .response_cleaner import ResponseCleaner, clean_chatbot_response

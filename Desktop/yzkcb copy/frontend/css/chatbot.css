@@ -69,6 +69,8 @@ body {
     align-items: center;
     justify-content: center;
     color: white;
+    will-change: transform, box-shadow;
+    backface-visibility: hidden;
 }
 
 #chatbot-toggle:hover {
@@ -84,6 +86,7 @@ body {
     width: 28px;
     height: 28px;
     transition: transform 0.3s ease;
+    will-change: transform;
 }
 
 #chatbot-toggle.active svg {
@@ -108,11 +111,19 @@ body {
     transform-origin: bottom right;
     opacity: 0;
     transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    will-change: transform, opacity;
+    backface-visibility: hidden;
 }
 
 #chatbot-container.active {
     transform: scale(1) translateY(0);
     opacity: 1;
+}
+
+#chatbot-container.closing {
+    transform: scale(0.8) translateY(50px);
+    opacity: 0;
+    transition: transform 0.2s ease-out, opacity 0.2s ease-out;
 }
 
 /* Pre-chat Form */
@@ -444,13 +455,24 @@ body {
     padding: 5px;
     display: flex;
     opacity: 0.8;
-    transition: all 0.3s ease;
+    transition: opacity 0.1s ease, transform 0.1s ease;
+    will-change: opacity, transform;
 }
 
 .chat-reset-btn:hover,
 .chat-close-btn:hover {
     opacity: 1;
     transform: scale(1.1);
+}
+
+.chat-reset-btn:active,
+.chat-close-btn:active {
+    transform: scale(0.95);
+}
+
+.chat-close-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
 }
 
 .chat-reset-btn svg,

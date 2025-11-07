@@ -25,11 +25,15 @@ class VectorStoreManager:
             embeddings: EmbeddingManager instance
         """
         from langchain_community.vectorstores import FAISS
+        from .embeddings import LangchainEmbeddingAdapter
+        
+        # Create proper Embeddings object for LangChain compatibility
+        embeddings_adapter = LangchainEmbeddingAdapter(embeddings.model)
         
         # Create FAISS store
         self.vector_store = FAISS.from_documents(
             documents,
-            embeddings  # Use the underlying model
+            embeddings_adapter  # Use the LangChain-compatible adapter
         )
         
         # Save to disk
@@ -47,10 +51,14 @@ class VectorStoreManager:
     def load_store(self, embeddings):
         """Load previously saved FAISS store"""
         from langchain_community.vectorstores import FAISS
+        from .embeddings import LangchainEmbeddingAdapter
+        
+        # Create proper Embeddings object for LangChain compatibility
+        embeddings_adapter = LangchainEmbeddingAdapter(embeddings.model)
         
         self.vector_store = FAISS.load_local(
             str(self.store_path / "faiss_index"),
-            embeddings,
+            embeddings_adapter,
             allow_dangerous_deserialization=True
         )
         

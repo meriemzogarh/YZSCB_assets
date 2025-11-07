@@ -14,6 +14,9 @@ import sys
 import logging
 from pathlib import Path
 
+# Disable output buffering for immediate terminal output
+os.environ['PYTHONUNBUFFERED'] = '1'
+
 # Add parent directory to Python path to import config
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
@@ -201,6 +204,7 @@ def run_app():
     
     This function is used as the entry point for production deployment.
     """
+    print("Starting Yazaki Chatbot Backend...", flush=True)  # Immediate output
     app = create_app()
     
     # Get configuration
@@ -208,6 +212,7 @@ def run_app():
     host = os.getenv('FLASK_HOST', '0.0.0.0')
     port = int(os.getenv('FLASK_PORT', 8000))
     
+    print(f"Starting server on {host}:{port}", flush=True)
     logger.info(f"Starting server on {host}:{port}")
     
     app.run(

@@ -8,6 +8,7 @@ class ChatbotUI {
         this.isWaitingForResponse = false;
         this.userInfo = null;
         this.formSubmitted = false;
+        this.pendingEmailRequest = null;
         
         // DOM Elements
         this.elements = {
@@ -31,6 +32,28 @@ class ChatbotUI {
         this.checkConnection();
         this.checkExistingUserInfo();
     }
+
+    // Utility method to debounce function calls
+    debounce(func, wait) {
+        let timeout;
+        return function executedFunction(...args) {
+            const later = () => {
+                clearTimeout(timeout);
+                func(...args);
+            };
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+        };
+    }
+
+    // Cancel any pending requests
+    cancelPendingRequests() {
+        if (this.pendingEmailRequest) {
+            console.log('Canceling pending email request');
+            // Note: Actual request cancellation would depend on the API implementation
+            this.pendingEmailRequest = null;
+        }
+    }
     
     // Check if user info already exists in localStorage
     checkExistingUserInfo() {
@@ -44,6 +67,7 @@ class ChatbotUI {
         this.api.resetSession();
         this.userInfo = null;
         this.formSubmitted = false;
+        this.cancelPendingRequests();
     }
 
     // Setup event listeners to clear session on page leave/refresh
@@ -68,8 +92,9 @@ class ChatbotUI {
         // Toggle button click
         this.elements.toggle.addEventListener('click', () => this.toggleChat());
         
-        // Close button click
-        this.elements.closeBtn.addEventListener('click', () => this.closeChat());
+        // Close button click - optimized for immediate response with debouncing
+        const debouncedClose = this.debounce((e) => this.handleCloseClick(e), 100);
+        this.elements.closeBtn.addEventListener('click', debouncedClose);
         
         // Reset button click
         this.elements.resetBtn.addEventListener('click', () => this.handleReset());
@@ -251,23 +276,70 @@ class ChatbotUI {
         }
     }
 
-    // Close chat and send summary email
-    async closeChat() {
+    // Handle close button click with immediate UI response
+    handleCloseClick(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        
+        // Immediate visual feedback
+        this.elements.closeBtn.style.opacity = '0.5';
+        this.elements.closeBtn.disabled = true;
+        
+        // Close chat immediately with smooth animation
+        requestAnimationFrame(() => {
+            this.closeChatImmediate();
+            
+            // Send email in background without blocking UI
+            this.sendEmailInBackground();
+        });
+    }
+
+    // Close chat immediately with optimized animation
+    closeChatImmediate() {
+        this.isOpen = false;
+        
+        // Add closing class for optimized transition
+        this.elements.container.classList.add('closing');
+        this.elements.toggle.classList.remove('active');
+        
+        // Remove active class after brief delay for smooth transition
+        setTimeout(() => {
+            this.elements.container.classList.remove('active');
+            
+            // Clean up after animation completes
+            setTimeout(() => {
+                this.elements.container.classList.remove('closing');
+                // Reset close button state
+                this.elements.closeBtn.style.opacity = '';
+                this.elements.closeBtn.disabled = false;
+            }, 200);
+        }, 50);
+    }
+
+    // Send email in background without blocking UI
+    async sendEmailInBackground() {
+        // Cancel any existing pending email request
+        this.cancelPendingRequests();
+        
         // Only send email if we have an active session with messages
         if (this.formSubmitted && this.api.sessionId) {
             try {
-                console.log('Closing session and sending summary email...');
-                await this.sendSessionCloseEmail();
+                console.log('Sending session summary email in background...');
+                this.pendingEmailRequest = this.sendSessionCloseEmail();
+                await this.pendingEmailRequest;
+                this.pendingEmailRequest = null;
             } catch (error) {
                 console.error('Error sending session close email:', error);
-                // Continue with closing even if email fails
+                this.pendingEmailRequest = null;
+                // Email failure doesn't affect UI since chat is already closed
             }
         }
+    }
 
-        // Close the chat window
-        this.isOpen = false;
-        this.elements.container.classList.remove('active');
-        this.elements.toggle.classList.remove('active');
+    // Legacy method for backward compatibility
+    async closeChat() {
+        this.closeChatImmediate();
+        await this.sendEmailInBackground();
     }
 
     // Send session closure email
